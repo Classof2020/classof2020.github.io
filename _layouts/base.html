@@ -1,0 +1,29 @@
+---
+description: >
+  This layout can be used for any page requring access to the full width of the page, unconstrained by a grid.
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+    {% if page.collection == "class" %}
+      <title>{{ page.firstname | escape }} {{ page.lastname | escape }} - {{ site.title | escape }}</title>
+    {% else %}
+      <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
+    {% endif %}
+	
+	<base href="{{ site.baseurl }}" />
+	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	
+  </head>
+  <body>
+    <div>
+      {{ content }}
+    </div>
+  </body>
+</html>
