@@ -1,0 +1,35 @@
+---
+layout: base
+title: The Class
+permalink: /class/
+---
+
+<h1>Software Engineering, Class of 2020</h1>
+
+<ul>
+{% assign members = site.class | sort: 'lastname' %}
+{% for member in members %}
+  <li>
+    <a href="{{ member.url | prepend: site.baseurl }}">
+      {% if member.photo %}
+        <img src="{{ site.baseurl }}/img/class/{{ member.photo }}" alt="Photo of {{ member.firstname }} {{ member.lastname }}">
+      {% else %}
+        <img src="{{ site.baseurl }}/img/avatar.png" alt="Class of 2020 avatar since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
+      {% endif %}
+    </a>
+    <div>
+      <a href="{{ member.url | prepend: site.baseurl }}">{{ member.firstname }} {{ member.lastname }}</a>
+    </div>
+    {% if member.email %}
+      <div>
+        {{ member.email }}
+      </div>
+    {% endif %}
+    {% if member.place %}
+      <div>
+        {{ member.place }}
+      </div>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
