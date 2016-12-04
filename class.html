@@ -4,10 +4,12 @@ title: The Class
 permalink: /class/
 ---
 
-<h1>Software Engineering, Class of 2020</h1>
-
-<ul class="list-unstyled">
-{% assign members = site.class | sort: 'lastname' %}
+<h1>The Class</h1>
+<p class="lead">
+  We make the Class of 2020.
+</p>
+<ul class="class list-inline">
+{% assign members = site.class | sort: 'firstname' %}
 {% for member in members %}
   <li>
     <a href="{{ member.url | prepend: site.baseurl }}">
@@ -17,16 +19,16 @@ permalink: /class/
         <img src="{{ site.baseurl }}/img/avatar.png" alt="Class of 2020 avatar since {{ member.firstname }} {{ member.lastname }} does not have a photo yet">
       {% endif %}
     </a>
-    <div>
+    <div class="member-name">
       <a href="{{ member.url | prepend: site.baseurl }}">{{ member.firstname }} {{ member.lastname }}</a>
     </div>
     {% if member.email %}
-      <div>
+      <div <div class="member-email">
         {{ member.email }}
       </div>
     {% endif %}
     {% if member.place %}
-      <div>
+      <div class="member-place">
         {{ member.place }}
       </div>
     {% endif %}

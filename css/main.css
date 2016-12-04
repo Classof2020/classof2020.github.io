@@ -1,0 +1,31 @@
+ul.class li {
+    float: left;
+    width: 200px;
+    height: 220px;
+    margin: 0 1em 1em 0;
+    text-align: center;
+}
+ul.class li img {
+    border-radius: 50%;
+    height: 120px;
+    width: 120px;
+}
+ul.class .member-role,
+ul.class .member-place,
+ul.class .member-email,
+ul.class .member-phone {
+    color: #5b616b;
+    font-size: 16px;
+}
+.class-member {
+    margin-top: 1em;
+    h1 {
+        margin-top: 0;
+    }
+    .member-role,
+    .member-place,
+    .member-email,
+    .member-phone {
+        font-size: 1.2em;
+    }
+}
