@@ -24,7 +24,7 @@ permalink: /class/
     </div>
     {% if member.email %}
       <div <div class="member-email">
-        {{ member.email }}
+        <a href="mailto:{{ member.email }}">{{ member.email }}</a>
       </div>
     {% endif %}
     {% if member.place %}

@@ -10,12 +10,16 @@ ul.class li img {
     height: 120px;
     width: 120px;
 }
-ul.class .member-role,
-ul.class .member-place,
+ul.class .member-name {
+  color: #0B0C0C;
+  font-size: 19px;
+}
+
 ul.class .member-email,
+ul.class .member-place,
 ul.class .member-phone {
     color: #5b616b;
-    font-size: 16px;
+    font-size: small;
 }
 .class-member {
     margin-top: 1em;
