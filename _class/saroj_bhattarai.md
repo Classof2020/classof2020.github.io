@@ -1,15 +1,17 @@
 ---
-firstname:Saroj
-lastname:Bhattarai
-photo:C:\Users\Saroj\Desktop\class\img\class\saroj_bhattarai.png
-place:Dang,Dudhena,Nepal
-email:sarojbhattarai800@gmail.com	
-phonenumber:9868635719(official use only)
-facebook:sar.bht
-twitter:sarojbhattaraii
+firstname: Saroj
+lastname: Bhattarai
+photo: saroj_bhattarai.png
+place: Dang, Dudhena
+email: sarojbhattarai800@gmail.com	
+phonenumber: 9868635719
+facebook: https://facebook.com/sar.bht
+twitter: https://twitter.com/sarojbhattaraii
 linkedin:
-instagram:sarojbhattaraii
+instagram: https://instagram.com/sarojbhattaraii
+github: https://github.com/sarojbhattarai
 memberid:
 layout: profile
 ---
 
+Hey, this is Saroj Bhattarai. now you'll soon get my website, till then get lost. I am just awesome.
