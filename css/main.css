@@ -33,3 +33,13 @@ ul.class .member-phone {
         font-size: 1.2em;
     }
 }
+
+footer {
+  background-color: #DEE0E2;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
