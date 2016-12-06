@@ -1,12 +1,12 @@
 ---
 firstname: Nischal
 lastname: Shrestha
-photo:Nischal_Shrestha.jpg
-place:Bidur-4, Battar Bazzar, Nuwakot, Nepal
-email:aakrist666@gmail.com
-phonenumber:+9779818681689
-facebook:https://www.facebook.com/Aakrist36
-twitter:https://www.twitter.com/StonE_HearteD36
+photo: Nischal_Shrestha.jpg
+place: Bidur-4, Battar Bazzar, Nuwakot, Nepal
+email: aakrist666@gmail.com
+phonenumber: 9818681689
+facebook: https://www.facebook.com/Aakrist36
+twitter: https://www.twitter.com/StonE_HearteD36
 linkedin:
 instagram:
 memberid:
