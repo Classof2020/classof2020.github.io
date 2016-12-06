@@ -1,8 +1,8 @@
 ---
-firstname: poshan
-lastname: pandey
+firstname: Poshan
+lastname: Pandey
 photo: poshan_pandey.jpg
-place: nuwakot
+place: Nuwakot
 email: poshan0126@gmail.c0m
 phonenumber: 9860003427
 facebook:
