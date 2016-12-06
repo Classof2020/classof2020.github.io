@@ -14,7 +14,9 @@ layout: profile
 ---
 Nischal says, He is "Nepal by birth, Nepal by heart and Nepal by thought".
 Nischal is one of the most simple and humble guy you will ever find in this earth.
-He was actively involve in the formation and development of "THE POSHAN & CO.".
+He is one of the prominent member of "The Poshan & Co.". 
+He is true Patriotic and you can found patriotism in every mole of his blood.
+
 
 
 
