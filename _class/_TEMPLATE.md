@@ -40,15 +40,15 @@ To complete your team profile:
 	- phonenumber: Your phone number or you can leave it blank. We will 
 	verify your number once you make a pull request.
     
-	- facebook: Your facebook url(like https://facebook.com/facebook). 
+	- facebook: Your facebook url(like https://facebook.com/username). 
 	Of course this is optional, it's all up to you.
     
-	- twitter: Your twitter url(like https://twitter.com/twitter). This is an
+	- twitter: Your twitter url(like https://twitter.com/username). This is an
    	optional field.
     
-	- linkedin: Link to your LinkedIn profile.  
+	- linkedin: Link to your LinkedIn profile.((optional))  
     
-	- instagram: Link to your Instagram and this is not strict as well.
+	- instagram: Link to your Instagram and this is not strict as well.((optionl))
     
 	- memberid: In the future if we want to sort the names manually this 
 	can be the option. For now, it does not affect anything.	  
