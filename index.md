@@ -1,6 +1,5 @@
 ---
 layout: base
-title: Class of 2020
 ---
 
 <h1 style="font-size:400%; font-weight:bold; letter-spacing:-8px;">Class of 2020</h1><br>
