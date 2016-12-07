@@ -2,7 +2,7 @@
 firstname: Saroj
 lastname: Bhattarai
 photo: saroj_bhattarai.jpg
-place: Dang, Dudhena
+place: Tulsipur, Dang
 email: sarojbhattarai800@gmail.com	
 phonenumber: 9868635719
 facebook: https://facebook.com/sar.bht

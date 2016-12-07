@@ -12,7 +12,7 @@ instagram:
 memberid:
 layout: profile
 ---
-Nischal says, he is "Nepali by birth, Nepali by heart and Nepali by thought".
+Nischal says, he is "Nepal by birth, Nepal by heart and Nepal by thought".
 Nischal is one of the most simple and humble guy you will ever find in this earth.
 He is one of the prominent member of "The Poshan & Co.". 
 He is true Patriotic and you can found patriotism in every mole of his blood.
