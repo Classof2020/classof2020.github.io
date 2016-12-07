@@ -1,3 +1,6 @@
+.navbar-brand {
+  font-weight:800px;
+  }
 ul.class li {
     float: left;
     width: 200px;
