@@ -1,7 +1,7 @@
 ---
 firstname: Anjal
 lastname: Gotame
-photo: anjal_gotame
+photo: anjal_gotame.jpg
 place: Sitapaila
 email: anjalgotame70@gmail.com
 phonenumber: 9860862122
