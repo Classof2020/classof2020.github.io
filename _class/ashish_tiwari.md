@@ -7,7 +7,8 @@ email: hi@aashishtiwari.com.np
 phonenumber: 9846511401
 facebook: https://facebook.com/MegaMindAT
 twitter: https://twitter.com/MegaMindAT
-linkedin:
+linkedin: https://np.linkedin.com/in/megamindat
+instagram: https://instagram.com/megamindat
 github: https://github.com/MegaMind98
 memberid:
 layout: profile
