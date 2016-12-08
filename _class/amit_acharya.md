@@ -2,7 +2,7 @@
 firstname: Amit
 lastname: Acharya
 photo: amit_acharya.jpg
-place: Itahari,Sunsari
+place: Itahari, Sunsari
 email: amitacharya975@gmail.com
 phonenumber: 9804371724
 facebook: https://facebook.com/imacharya
