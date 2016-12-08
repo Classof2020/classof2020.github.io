@@ -1,7 +1,7 @@
 ---
 firstname: Amit
 lastname: Acharya
-photo: 
+photo: amit_acharya.jpg
 place: Sunsari
 email: amitacharya975@gmail.com
 phonenumber: 9804371724
