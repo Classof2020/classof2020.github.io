@@ -14,4 +14,8 @@ memberid:
 layout: profile
 ---
 
-Hey, this is Saroj Bhattarai. now you'll soon get my website, till then get lost. I am just awesome.
+When I see someone extremely smart, I stare and smile. Then I put down the mirror. 
+
+Passionately curious about "Theory of Relativity". One of the prominent member and well wisher of The Poshan & Co. If I could succeed to fullfill my dreams I would like to start my own business. And I'm preparing myself that. A great nature lover. Conscious about Climate Change though loves to travel on Nepal Yatayat. 
+
+Open minded, shy. I give priority to listening over speaking. Little bit talented, people say.
