@@ -5,6 +5,7 @@ photo: ashish_tiwari.jpg
 place: Pokhara
 email: hi@aashishtiwari.com.np
 phonenumber: 9846511401
+website: https://aashishtiwari.com.np/
 facebook: https://facebook.com/MegaMindAT
 twitter: https://twitter.com/MegaMindAT
 linkedin: https://np.linkedin.com/in/megamindat
