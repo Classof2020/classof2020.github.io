@@ -8,7 +8,6 @@ Submit [issues](https://github.com/Classof2020/classof2020.github.io/issues/new)
 
 ### Goals
 
-- Share stories of real world experiences using GitHub in open Government
 - Demystify open source terminology
 - Showcase the class members to promote connections and sharing between individuals.
 - Make getting started with GitHub easier
@@ -39,7 +38,7 @@ You can take all the files of this site and run them just on your computer as if
 * [Ruby](https://www.ruby-lang.org/en/)
 * [Git](http://git-scm.com/)
 
-_Should you face any problem feel free to ping [Ashish](https://aashishtiwari.com.np/). _
+Should you face any problem, feel free to ping [@MegaMind98](https://github.com/MegaMind98/).
 
 To copy the repository's files from here onto your computer and to view and serve those files locally, at your computer's command line type:
 
