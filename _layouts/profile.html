@@ -11,10 +11,11 @@ description: >
   <div class="row">
     <div class="col-xs-6 col-sm-3"> {% if page.photo %} <img src="{{ site.baseurl }}/img/class/{{ page.photo }}" alt="Photo of {{ page.firstname }} {{ page.lastname }}"> {% else %} <img src="{{ site.baseurl }}/img/avatar.png" alt="Class of 2020 logo since {{ page.firstname }} {{ page.lastname }} does not have a photo yet"> {% endif %}
       <h3>{{ page.firstname }} {{ page.lastname }}</h3> {% if page.place %}
-      <div class="member-place">{{ page.place }}</div>{% endif %} {% if page.website %}
-	  <div class="member-website"><a href="{{ page.website}}" target="_blank">Website</a></div>{% endif %}{% if page.phonenumber %}
-      <div class="member-phone">{{ page.phonenumber }}</div>{% endif %} {% if page.email %}
-      <div class="member-phone">{{ page.email }}</div>{% endif %} {% if page.facebook %}<a href="{{ page.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;{% endif %} {% if page.twitter %}<a href="{{ page.twitter }}" target="_blank"><i class="fa fa-twitter" ></i></a>&nbsp;&nbsp;{% endif %} {% if page.instagram %}<a href="{{ page.instagram }}" target="_blank"><i class="fa fa-instagram" ></i></a>&nbsp;&nbsp;{% endif %} {% if page.linkedin %}<a href="{{ page.linkedin }}" target="_blank"><i class="fa fa-linkedin" ></i></a>&nbsp;&nbsp;{% endif %} {% if page.github %}<a href="{{ page.github }}" target="_blank"><i class="fa fa-github" ></i></a>&nbsp;&nbsp;{% endif %} </div>
+      <div class="member-place"><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>&nbsp;&nbsp;{{ page.place }}</div>{% endif %} {% if page.website %}
+	  <div class="member-website"><span class="glyphicon glyphicon-link" aria-hidden="true"></span>&nbsp;&nbsp;<a href="{{ page.website}}" target="_blank">My Website</a></div>{% endif %}{% if page.phonenumber %}
+      <div class="member-phone"><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>&nbsp;&nbsp;{{ page.phonenumber }}</div>{% endif %} {% if page.email %}
+      <div class="member-email"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;&nbsp;<a href="mailto:{{ page.email }}">{{ page.email }}</a></div>{% endif %} 
+	  <div class="social">{% if page.facebook %}<a href="{{ page.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a>&nbsp;&nbsp;{% endif %} {% if page.twitter %}<a href="{{ page.twitter }}" target="_blank"><i class="fa fa-twitter" ></i></a>&nbsp;&nbsp;{% endif %} {% if page.instagram %}<a href="{{ page.instagram }}" target="_blank"><i class="fa fa-instagram" ></i></a>&nbsp;&nbsp;{% endif %} {% if page.linkedin %}<a href="{{ page.linkedin }}" target="_blank"><i class="fa fa-linkedin" ></i></a>&nbsp;&nbsp;{% endif %} {% if page.github %}<a href="{{ page.github }}" target="_blank"><i class="fa fa-github" ></i></a>&nbsp;&nbsp;{% endif %} </div></div>
     <div class="clearfix visible-xs"></div>
     <div class="col-xs-12 col-md-9 pull-md-3 bd-content"> {{ content }} </div>
   </div><br><br>
