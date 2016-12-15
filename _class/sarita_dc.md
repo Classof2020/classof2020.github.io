@@ -8,7 +8,7 @@ phonenumber:
 facebook:
 twitter:
 linkedin:
-instagram: htttps://instagram.com/SARITTA1111
+instagram: https://instagram.com/SARITTA1111
 memberid:
 layout: profile
 ---
