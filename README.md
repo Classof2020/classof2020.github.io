@@ -24,13 +24,13 @@ If you see an error or a place where content should be improved or updated, just
 
 #### Add Member to the Class
 
-If you know of a person that should be added to the member list that generates the matrix of avatars on the [Class](https://classof2020.github.io/class/) page: fork this repository, open the `_class/_TEMPLATE.md` file and follow the instructions there carefully. Commit your change and submit a pull request to us!
+If you know of a person that should be added to the member list that generates the matrix of avatars on the [Class](https://classof2020.github.io/class/) page: fork this repository, open the `_class/_TEMPLATE.md` file and follow the instructions therein carefully. Commit your change, git push and submit a pull request!
 
 ---
 
 # To Set up Locally
 
-You can take all the files of this site and run them just on your computer as if it were live online, only it's just on your machine.
+You can take all the files of this site and run them 'just' on your computer as if it were live online, only it's just on your machine.
 
 #### Requirements
 
