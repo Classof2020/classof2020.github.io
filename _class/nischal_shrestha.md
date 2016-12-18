@@ -1,38 +1,42 @@
----
-firstname: Nischal Lal
-lastname: Shrestha
-photo: nischal_shrestha.jpg
-place: Battar Bazzar, Nuwakot
-email: aakrist666@gmail.com
-phonenumber: 9818681689
-facebook: https://www.facebook.com/Aakrist36
-twitter: https://www.twitter.com/StonE_HearteD36
-linkedin:
-instagram:
-memberid:
-layout: profile
----
-Girls used to call me "**Ugly**", then they see my bank account, then they start to call me "**Ugly and Poor**".
+#AAKRIST
 
-I just believe that **fighting for peace** is just like **fucking for peace**.
+
+
+Girls used to call me "**Ugly**", then they saw my bank account and started calling me "**Ugly And Poor**".
+
+If you don't like me and still looking at my Bio, then you are a *FAN* __babY__ *FAN*.    Ah!! Never Mind!!.
+
+I just believe that **FIGHTING FOR PEACE** is just like **FUCKING FOR VIRGINITY**. So, please don't fight with me, otherwise you may loose your *peace*. 
  
-Don't worry about my life because I don't give damn about yours.
+Please guys, Don't worry about my life because I don't give a damn about yours. *__Never Mind__*
 
-I am day dreamer and night thinker.
 
-I always go to date at night with my bed, We really sleep together. 
+I always go on a date with my bed at night. We really sleep together, whole night. 
 
-I have got special power, I can turn girls ** Active Now ** status to ** Active A minute ago ** by just sending **Hi**.
-
+I also have special powers, I can turn girls ** Active Now ** status to **Active A Minute Ago** by just sending **Hi**. Ooh!!!
 
 
 Believe me or not, 
-I am  **Nepal by birth**,
-			**Nepal by heart**
-				**Nepal by thought**.
 
-I am one of the most **simple and humble** guy you will ever find in this earth.
+I am  __*Nepal by Birth*, *Nepal By Heart*, *Nepal By Thought*.__
 
-I am one of the prominent member of "**The Poshan & Co.**". 
+I am one of the most **simple and humble** guy you will ever find in this earth (Do not doubt about that).
+		
+I am true Patriotic and you can found patriotism in every mole of my blood.
 
-I am true Patriotic and you can found patriotism in every mole of his blood.
+I am one of the most prominent member of "**The Poshan & Co.**".
+
+
+If we are not connected on social media,
+							Add me on facebook [CLICK HERE TO ADD](https://www.facebook.com/Aakrist36)
+							Follow me on twitter [FOLLOW ME AND GET FOLLOWED](https://www.twitter.com/StonE_HearteD36)
+							
+You can visit my website and You can contribute there if you have got some thrilling post on programming[VISIT AND CONTRIBUTE](https://aakrist.me)
+If you want to know more about me just google me [Search Nischal on Google]
+(https://www.google.com.np/search?q=Nischal&rlz=1C1RLNS_enNP714NP714&oq=Nischal&aqs=chrome..69i57j69i61l2.3056j0j8&sourceid=chrome&ie=UTF-8)
+
+If you have a weak heart Please [DON'T CLICK HERE](https://aakrist.me)
+	
+	
+	
+	
