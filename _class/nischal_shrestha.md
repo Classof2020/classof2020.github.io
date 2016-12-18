@@ -1,8 +1,22 @@
+---
+firstname: Nischal Lal
+lastname: Shrestha
+photo: nischal_shrestha.jpg
+place: Battar Bazzar, Nuwakot
+email: aakrist666@gmail.com
+phonenumber: 9818681689
+facebook: https://www.facebook.com/Aakrist36
+twitter: https://www.twitter.com/StonE_HearteD36
+linkedin:
+instagram:
+memberid:
+layout: profile
+---
 #AAKRIST
 
 
 
-Girls used to call me "**Ugly**", then they saw my bank account and started calling me "**Ugly And Poor**".
+Girls used to call me "**Ugly**", then they saw my bank account and started calling me "*Ugly And Poor*".
 
 If you don't like me and still looking at my Bio, then you are a *FAN* __babY__ *FAN*.    Ah!! Never Mind!!.
 
