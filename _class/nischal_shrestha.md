@@ -46,8 +46,7 @@ If we are not connected on social media,
 							Follow me on twitter [FOLLOW ME AND GET FOLLOWED](https://www.twitter.com/StonE_HearteD36)
 							
 You can visit my website and You can contribute there if you have got some thrilling post on programming[VISIT AND CONTRIBUTE](https://aakrist.me)
-If you want to know more about me just google me [Search Nischal on Google]
-(https://www.google.com.np/search?q=Nischal&rlz=1C1RLNS_enNP714NP714&oq=Nischal&aqs=chrome..69i57j69i61l2.3056j0j8&sourceid=chrome&ie=UTF-8)
+If you want to know more about me just google me [Search Nischal on Google](https://www.google.com.np/search?q=Nischal&rlz=1C1RLNS_enNP714NP714&oq=Nischal&aqs=chrome..69i57j69i61l2.3056j0j8&sourceid=chrome&ie=UTF-8)
 
 If you have a weak heart Please [DON'T CLICK HERE](https://aakrist.me)
 	
