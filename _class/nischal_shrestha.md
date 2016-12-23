@@ -18,11 +18,13 @@ layout: profile
 
 Girls used to call me "**Ugly**", then they saw my bank account and started calling me "*Ugly And Poor*".
 
-If you don't like me and still looking at my Bio, then you are a *FAN* __babY__ *FAN*.    Ah!! Never Mind!!.
+If you don't like me and still looking at my Bio, then you are a **FAN** __babY__ *FAN*.    Ah!! Never Mind!!.
 
 I just believe that **FIGHTING FOR PEACE** is just like **FUCKING FOR VIRGINITY**. So, please don't fight with me, otherwise you may loose your *peace*. 
  
-Please guys, Don't worry about my life because I don't give a damn about yours. *__Never Mind__*
+Please guys, Don't worry about my life because I don't give a damn about yours. *__Never Mind__*.
+
+You know I am so romantic, sometime I think I should marry myself.
 
 
 I always go on a date with my bed at night. We really sleep together, whole night. 
@@ -48,7 +50,7 @@ If we are not connected on social media,
 You can visit my website and You can contribute there if you have got some thrilling post on programming[VISIT AND CONTRIBUTE](https://aakrist.me)
 If you want to know more about me just google me [Search Nischal on Google](https://www.google.com.np/search?q=Nischal&rlz=1C1RLNS_enNP714NP714&oq=Nischal&aqs=chrome..69i57j69i61l2.3056j0j8&sourceid=chrome&ie=UTF-8)
 
-If you have a weak heart Please [DON'T CLICK HERE](https://aakrist.me)
+If you have a weak heart Please [DON'T CLICK HERE](aakrist.me)
 	
 	
 	
