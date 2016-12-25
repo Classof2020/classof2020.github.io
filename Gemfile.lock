@@ -4,7 +4,7 @@ GEM
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
     colorator (1.1.0)
-    ffi (1.9.14-x64-mingw32)
+    ffi (1.9.14)
     forwardable-extended (2.6.0)
     jekyll (3.3.1)
       addressable (~> 2.4)
@@ -19,6 +19,7 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.8.0)
       jekyll (~> 3.3)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
     jekyll-watch (1.5.0)
@@ -29,8 +30,6 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
-    minima (2.1.0)
-      jekyll (~> 3.3)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     public_suffix (2.0.4)
@@ -39,18 +38,15 @@ GEM
       ffi (>= 0.5.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.4.22)
+    sass (3.4.23)
 
 PLATFORMS
-  x64-mingw32
+  ruby
 
 DEPENDENCIES
-  jekyll (= 3.3.1)
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
-
-RUBY VERSION
-   ruby 2.3.0p0
+  jekyll
+  jekyll-feed
+  jekyll-paginate
 
 BUNDLED WITH
-   1.13.6
+   1.11.2

@@ -1,0 +1,21 @@
+---
+layout: base
+title: Blog Posts
+permalink: /blog/
+---
+<h1 style="font-size:400%; font-weight:bold; letter-spacing:-8px;">Posts on Class of 2020</h1><br>
+<section>
+  <div>
+    <div class="row">
+      <div class="text-center">
+        <ul style="list-style-position: inside">
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date:"%d %B %Y" }}
+              </li>
+            {% endfor %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
