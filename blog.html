@@ -1,20 +1,18 @@
 ---
 layout: base
-title: Blog Posts
+title: Our blog
 permalink: /blog/
 ---
-<h1 style="font-size:400%; font-weight:bold; letter-spacing:-8px;">Posts on Class of 2020</h1><br>
+
+<h1>Our blog</h1><br>
 <section>
-  <div>
-    <div class="row">
-      <div class="text-center">
-        <ul style="list-style-position: inside">
-            {% for post in site.posts %}
-              <li>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> - {{ post.date | date:"%d %B %Y" }}
-              </li>
-            {% endfor %}
-        </ul>
+  <div class="row">
+  {% for post in site.posts %}
+    <div class="col-sm-4">
+	  
+                <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4> {{ post.date | date:"%d %B %Y" }}
+    </div>
+      {% endfor %}
       </div>
     </div>
   </div>
