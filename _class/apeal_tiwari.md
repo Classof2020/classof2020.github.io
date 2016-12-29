@@ -1,7 +1,7 @@
 ---
 firstname: Apeal
 lastname: Tiwari
-photo: 
+photo: apeal_tiwari.jpg
 place: Pokhara
 email: apealunited@yahoo.com
 phonenumber: 9868133775
