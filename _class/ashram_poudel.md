@@ -1,7 +1,7 @@
 ---
 firstname: Ashram 
 lastname: Poudel 
-photo:avatar.png 
+photo: ashram_pouel.jpg 
 place: Gulmi 
 email: ashrampaudyalroll@gmail.com 
 phonenumber: 9860081973 
@@ -14,4 +14,3 @@ github:
 memberid:
 layout: profile
 ---
-
