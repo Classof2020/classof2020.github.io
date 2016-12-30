@@ -1,10 +1,11 @@
 ---
 firstname: Nischal
 lastname: Karki
-photo:  
+photo: nischal_karki.jpg
 place: Butwal
 email: nischalkarki1661@gmail.com
 phonenumber: 9817554983
+website:
 facebook: https://facebook.com/nischal.kc.927
 twitter:
 linkedin:
