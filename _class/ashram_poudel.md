@@ -1,7 +1,7 @@
 ---
 firstname: Ashram 
 lastname: Poudel 
-photo: ashram_pouel.jpg 
+photo: ashram_poudel.jpg 
 place: Gulmi 
 email: ashrampaudyalroll@gmail.com 
 phonenumber: 9860081973 
