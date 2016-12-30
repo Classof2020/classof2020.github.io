@@ -1,4 +1,4 @@
-﻿---
+---
 firstname: Ashish
 lastname: Tiwari
 photo: ashish_tiwari.jpg
