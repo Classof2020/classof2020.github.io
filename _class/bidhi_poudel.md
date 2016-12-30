@@ -1,8 +1,8 @@
 ---
 firstname: Bidhi 
 lastname:  Poudel
-photo: Poudel 
-place: Lalitpur, lubu 
+photo: bidhi_poudel.jpg
+place: Lalitpur 
 email: bidhipoudel@gmail.com 
 phonenumber: 9860149160 
 website: 

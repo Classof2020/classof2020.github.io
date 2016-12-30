@@ -1,7 +1,7 @@
 ---
 firstname: Sagar 
 lastname: Devkota 
-photo: avatar.png 
+photo: sagar_devkota.jpg
 place: Pokhara 
 email: sagar@timeandupdate.com 
 phonenumber: 9814105801 

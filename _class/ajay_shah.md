@@ -1,7 +1,7 @@
 ---
 firstname: Ajay 
 lastname: Shah
-photo: avatar.png
+photo: ajay_shah.jpg
 place: Sarlahi
 email: 357ajayshah@gmail.com 
 phonenumber: 9844490411
