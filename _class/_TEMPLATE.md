@@ -1,14 +1,16 @@
 ---
-firstname:
-lastname:
-photo:
-place:
-email:
-phonenumber:
-facebook:
-twitter:
-linkedin:
-instagram:
+firstname: 
+lastname: 
+photo: 
+place: 
+email: 
+phonenumber: 
+website: 
+facebook: 
+twitter: 
+linkedin: 
+instagram: 
+github: 
 memberid:
 layout: profile
 ---
@@ -23,38 +25,40 @@ To complete your team profile:
 	square photo, if you look flat that's probably because the picture
 	isn't square.
 	
-3. 	Fill out the above fields: name, photo, place, email, and profile.
+3. 	Fill out the above fields as per the instructions below:
 	
 	- firstname/lastname: Your name as you want it displayed on the 
-	team page 
+	members page 
 	
 	- photo: Filename of the photo you just added to the /img/class/ 
-	directory. How about some creativity here?		  
+	directory. 		  
 	
 	- place: Where you've come from, this is important. We're looking 
 	forward to visiting your place soon or later, that's why.
     
-	- email: Your email address or leave it blank if you want to be a very 
-	secretive person. Never mind ;)
+	- email: Your email address or leave it blank if you don't want to 
+	share.
     
-	- phonenumber: Your phone number or you can leave it blank. We will 
-	verify your number once you make a pull request.
+	- phonenumber: 'Your', phone number. This field is optional too.
+	
+	- website: If you've website, we provide backlink to your website. :D
     
 	- facebook: Your facebook url(like https://facebook.com/username). 
-	Of course this is optional, it's all up to you.
+	It's all up to you if you wish to include or not.
     
 	- twitter: Your twitter url(like https://twitter.com/username). This is an
    	optional field.
     
-	- linkedin: Link to your LinkedIn profile.((optional))  
+	- linkedin: Link to your LinkedIn profile. Optional!  
     
-	- instagram: Link to your Instagram and this is not strict as well.((optionl))
+	- instagram: Link to your Instagram and this is not strict as well. Optional!
+	
+	- github: Link to your GitHub Page. Of course, optional!
     
-	- memberid: In the future if we want to sort the names manually this 
-	can be the option. For now, it does not affect anything.	  
+	- memberid: In the future if we wish to manually sort the names, this 
+	could be a option. For now type in your favorite number.	  
 
-4. 	Delete all of this instructional text and replace it with a brief biography. 
-	Every other person in the class is curious about 'you'. ;)
+4. 	Delete all of this instructional text and replace it with a brief biography.
 
 5. 	Finally! Save the file, git commit, and git push!
 
