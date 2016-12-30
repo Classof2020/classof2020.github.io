@@ -1,14 +1,17 @@
 ---
-firstname: Ashram
-lastname: Poudel
-photo: 
-place: Gulmi
-email: ashrampaudyalroll@gmail.com
-phonenumber: 9860081973
+firstname: Ashram 
+lastname: Poudel 
+photo:avatar.png 
+place: Gulmi 
+email: ashrampaudyalroll@gmail.com 
+phonenumber: 9860081973 
+website: 
 facebook: 
-twitter:
-linkedin:
-instagram:
+twitter: 
+linkedin: 
+instagram: 
+github: 
 memberid:
 layout: profile
 ---
+

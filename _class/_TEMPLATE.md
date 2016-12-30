@@ -1,14 +1,16 @@
 ---
-firstname:
-lastname:
-photo:
-place:
-email:
-phonenumber:
-facebook:
-twitter:
-linkedin:
-instagram:
+firstname: 
+lastname: 
+photo: 
+place: 
+email: 
+phonenumber: 
+website: 
+facebook: 
+twitter: 
+linkedin: 
+instagram: 
+github: 
 memberid:
 layout: profile
 ---

@@ -1,16 +1,16 @@
 ---
-firstname: Ashish
-lastname: Tiwari
-photo: ashish_tiwari.jpg
-place: Pokhara
-email: hi@aashishtiwari.com.np
-phonenumber: 9846511401
-website: https://aashishtiwari.com.np/
-facebook: https://facebook.com/MegaMindAT
-twitter: https://twitter.com/MegaMindAT
-linkedin: https://np.linkedin.com/in/megamindat
-instagram: https://instagram.com/megamindat
-github: https://github.com/MegaMind98
+firstname: Ashish 
+lastname: Tiwari 
+photo: ashish_tiwari.jpg 
+place: Pokhara 
+email: hi@aashishtiwari.com.np 
+phonenumber: 9846511401 
+website: https://aashishtiwari.com.np/ 
+facebook: https://facebook.com/MegaMindAT 
+twitter: https://twitter.com/MegaMindAT 
+linkedin: https://np.linkedin.com/in/megamindat 
+instagram: https://instagram.com/megamindat 
+github: https://github.com/MegaMind98 
 memberid:
 layout: profile
 ---
@@ -31,6 +31,6 @@ Moreover,
 
 * I believe in Last Song Syndrome(LSS). I'm Sick until I get Sick!
 
-Thatâ€™s it about me. Iâ€™ve had enough now, Iâ€™m sure you have as wellâ€¦so why not go somewhere [else](https://justinjackson.ca/words.html).
+That’s it about me. I’ve had enough now, I’m sure you have as well…so why not go somewhere [else](https://justinjackson.ca/words.html).
 
 And thanks for being here. :)
