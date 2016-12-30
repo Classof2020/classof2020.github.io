@@ -1,20 +1,21 @@
 ---
-firstname: Nischal Lal
-lastname: Shrestha
-photo: nischal_shrestha.jpg
-place: Battar Bazzar, Nuwakot
-email: aakrist666@gmail.com
-phonenumber: 9818681689
-facebook: https://www.facebook.com/Aakrist36
-twitter: https://www.twitter.com/StonE_HearteD36
-linkedin:
-instagram:
+firstname: Nischal Lal 
+lastname: Shrestha 
+photo: nischal_shrestha.jpg 
+place: Battar Bazzar, Nuwakot 
+email: aakrist666@gmail.com 
+phonenumber: 9818681689 
+website: https://aakrist.me
+facebook: https://www.facebook.com/Aakrist36 
+twitter: https://www.twitter.com/StonE_HearteD36 
+linkedin: 
+instagram: 
+github: https://github.com/Aakrist36
 memberid:
 layout: profile
 ---
-#AAKRIST
 
-
+# AAKRIST
 
 Girls used to call me "**Ugly**", then they saw my bank account and started calling me "*Ugly And Poor*".
 
@@ -50,8 +51,4 @@ If we are not connected on social media,
 You can visit my website and You can contribute there if you have got some thrilling post on programming[VISIT AND CONTRIBUTE](https://aakrist.me)
 If you want to know more about me just google me [Search Nischal on Google](https://www.google.com.np/search?q=Nischal&rlz=1C1RLNS_enNP714NP714&oq=Nischal&aqs=chrome..69i57j69i61l2.3056j0j8&sourceid=chrome&ie=UTF-8)
 
-If you have a weak heart Please [DON'T CLICK HERE](aakrist.me)
-	
-	
-	
-	
+If you have a weak heart Please [DON'T CLICK HERE](https://aakrist.me)
