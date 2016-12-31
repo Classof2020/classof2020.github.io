@@ -1,7 +1,7 @@
 ---
 firstname: Kiran 
 lastname: Giri 
-photo: avatar.png 
+photo: kiran_giri.jpg 
 place: Jhapa 
 email: beingkiran88@gmail.com 
 phonenumber: 9824060133 
