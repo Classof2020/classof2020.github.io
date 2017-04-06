@@ -16,7 +16,7 @@ To complete your blog post:
 
 2.	If you wanCopy image for the blog post to the img/post/ directory. Name it using
 
-1. 	Fill out the above fields: title, subtitle, date, author, categories, header-image and permalink.
+3. 	Fill out the above fields: title, subtitle, date, author, categories, header-image and permalink.
     
 	- title: Title of your blog post.  
     
