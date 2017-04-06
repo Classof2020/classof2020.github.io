@@ -20,11 +20,11 @@ To complete your blog post:
     
 	- title: Title of your blog post.  
     
-	- subtitle: Date on which the event is going to take place.
+	- subtitle: Subtitle of your post.
 	
 	- date: Date on which the event is going to take place.
 	
-	- author: 
+	- author: Author of the blogpost.
     
 	- categories: Type of event. It could be conference, campaign, anything.
     

@@ -4,15 +4,14 @@ subtitle: "Keep It Simple Sir"
 date: 2017-4-6 8:51:32
 author: "Nischal Lal Shrestha"
 categories: post
-header-image: "sample-post.png"
+header-image: "debug.jpg"
 permalink: /2017/4/6/Debugging-in-c
 layout: post
 ---
 # Dare To Debug
 
-C programmers are great inventors of our times. However, there are is no shortage of horror stories about programs that took twenty times to " debug " as they did to "Write". Many a time programs had to be rewritten all over again because the bugs present in them could not be located. Bugs are C programmer's birththright. But how do we chase them away. No sure-shot way for that. I thought if I make a list of more common programming mistakes, it might be a help. They are not arranged in any particular order. But as you realize, surely a great help!
+C programmers are great inventors of our times. However, there are is no shortage of horror stories about programs that took twenty times to **DEBUG** as they did to **WRITE**. Many a time programs had to be rewritten all over again because the bugs present in them could not be located. Bugs are C programmer's birththright. But how do we chase them away. No sure-shot way for that. I thought if I make a list of more common programming mistakes, it might be a help. They are not arranged in any particular order. But as you realize, surely a great help!
 	
--
 [1] Omitting ampersand before the variables using in scanf().
 For example:
 		
@@ -59,3 +58,18 @@ the semicolon is treated as the null statement by the compiler as shown below
 		;
 		
 This is an indefinite loop,since the null statement keeps getting executed indefinitely as j never gets the increament.
+
+[4] Using **continue** in a **switch**. It is a common error to believe that the way the keyword break is used with loops and a **switch**; similarly
+the keyword **continue** can also be used with them. Remember that continue works only with loops, never with **switch**.
+
+[5] Forgetting the bound of an array.
+Note in C we don't have bound checking so it is upto you how you deal with this.
+	
+	int num[50], i;
+	
+	for(i = 0; i <= 50; ++i)
+		
+		num[i] = i * i;
+		
+Here, in the array num, there is no such element as num[50], since array counting begins with 0 and not 1. 
+Compiler would not give a warining if our program exceeds the bounds. If no taken care of, in extremes cases, the above code might even hang the computer.
