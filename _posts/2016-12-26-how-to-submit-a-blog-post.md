@@ -22,7 +22,7 @@ To complete your blog post:
     
 	- subtitle: Date on which the event is going to take place.
 	
-	- date: 
+	- date: Date on which the event is going to take place.
 	
 	- author: 
     
