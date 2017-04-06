@@ -2,14 +2,16 @@
 title: "How to Submit a Blog Post"
 subtitle: "Simple steps to complete a blog post"
 date: 2016-12-26 8:46:32
-author: "MegaMindAT"
+author: "MegaMindAT, Nischal Lal Shrestha"
 categories: post
 header-image: "sample-post.png"
 permalink: /2016/12/26/submitting-a-post
 layout: post
 ---
 
-To complete your blog post:
+To create and publish your blog post. Kindly follow these procedure.
+
+If you are too busy to follow  these procedures. Message us your post. We will publish under your name. [Message your post to Nischal Lal Shrestha](https://www.facebook.com/aakrist36) or [Message your post to Ashish](https://www.facebook.com/megamindat)
 
 1.	First make a copy of this file and rename it to date-title. Example. 2016-12-24-tree-plantation.md. 
     Open that file and edit it (don't edit this original TEMPLATE file).
