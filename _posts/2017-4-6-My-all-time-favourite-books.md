@@ -13,7 +13,7 @@ layout: post
 
 Most my friends wonder what I do in my 90 minutes ride to college from New Buspark. Dear friend, I read books. There have been many influential book which greatly influenced what I believe and how I behave. I tried to spend atleast 2 hour a day reading book that will improve my life in some way. 
 
-When I first started my college at NCIT, I don't know what to do those 180 minute bus ride from home-college-home. It was a misery situation looking at the same driver and conductor of **Mahanagar** **Yatayat**. Then some time between december 2016, I got a burning desire to start reading book. I cannot afford buying books, So i started downloading pdf and by that point my affair with reading books started.
+When I first started my college at NCIT, I don't know what to do those 180 minute bus ride from home-college-home. It was a misery situation looking at the same driver and conductor of **Mahanagar** **Yatayat**. Then some time between december 2016, I got a burning desire to start reading book. I cannot afford buying books, So i started downloading pdf and by that point my affair with books started.
 
 # Some books I read this year
 
