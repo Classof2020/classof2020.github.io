@@ -11,12 +11,12 @@ layout: post
 
 To create and publish your blog post. Kindly follow these procedure.
 
-If you are too busy to follow  these procedures. Message us your post. We will publish under your name. [Message your post to Nischal Lal Shrestha](https://www.facebook.com/aakrist36) or [Message your post to Ashish](https://www.facebook.com/megamindat)
+If you are too busy to follow  these procedures. Message us your post. We will publish under your name. [Message your post to Nischal Lal Shrestha](https://www.facebook.com/aakrist36) or [Message your post to Ashish](https://www.facebook.com/megamindat) or [Message your post to Sagar Devkota](https://facebook.com/sagardev1998)
 
 1.	First make a copy of this file and rename it to date-title. Example. 2016-12-24-tree-plantation.md. 
-    Open that file and edit it (don't edit this original TEMPLATE file).
+    Open that file and edit it (Please don't forget to enter valid date, and don't edit this original TEMPLATE file).
 
-2.	If you wanCopy image for the blog post to the img/post/ directory. Name it using
+2.	If you want image for your blog post, save the image in the directory img/post/ and mention the image name in header-image(choose image name in format post-bg-Number eg: post-bg-02).
 
 3. 	Fill out the above fields: title, subtitle, date, author, categories, header-image and permalink.
     

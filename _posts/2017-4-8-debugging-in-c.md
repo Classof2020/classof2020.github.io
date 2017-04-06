@@ -76,7 +76,7 @@ Compiler would not give a warining if our program exceeds the bounds. If no take
 
 
 
-# Always Remeber
+# Always Remember
 
 
 <blockquote> 
@@ -95,3 +95,5 @@ Programming is not about being clever and obscure -- it's about how clearly your
 # Note
 
 If you found similar contents in the book Let Us C, page 638 -644, It is a pure accident.
+
+Looking for C examples	[Visit Novice Programmers](https://www.aakrist.me)
