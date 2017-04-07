@@ -15,7 +15,7 @@ Most my friends wonder what I do in my 90 minutes ride to college from New Buspa
 
 When I first started my college at NCIT, I don't know what to do those 180 minute bus ride from home-college-home. It was a misery situation looking at the same driver and conductor of **Mahanagar** **Yatayat**. Then some time between december 2016, I got a burning desire to start reading book. I cannot afford buying books, So i started downloading pdf and by that point my affair with books started.
 
-# Some books I read this year
+# My all time Favourite books
 
 <h3 style = "color : #2cd67c">How to Win Friends and Influence People by Dale Carnegie</h3>
 <blockquote>
@@ -69,7 +69,7 @@ This book will give you an idea of how to change your habit. Do you want to wake
 
 <h3> Some ongoing books</h3>
  <li> The Pragmatic Programmer</li>
- <li> Beginning Python</li>
+ <li> Invent games with python</li>
  <li> The war of Art</li>
  
  

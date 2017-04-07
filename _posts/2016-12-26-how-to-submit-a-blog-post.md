@@ -39,8 +39,17 @@ If you have attend FIT class of November 2016, then you certainly know what **gi
 <h4>2. Login to Github</h4>
 
 Most important part, login to github, If you don't have github account, [signup](https://www.github.io).
-Then ...........
-..........
+Then Fork your copy of our website by clicking on fork:
+
+![Fork](/img/post/fork.jpg)
+
+After you forked you will be in your own copy of our website, click on clone or download:
+
+![clone](/img/post/clone1.jpg)
+
+![clone2](/img/post/clone2.jpg)
+
+Copy the link
 
 
 After you copied that link go to your desktop the Right click, If your git was installed correctly you should see this:
@@ -54,15 +63,16 @@ Then go to git bash here. Now you should see this:
 You may need to configure some profile settings, if so please consult google or contact us.
 
 Now you need to clone our website in your local computer.
-For this copy and paste this 
 
-git clone https://.........................................  in git and press enter.
+For this paste the link you just copied like
+
+git clone https://github.com/NischalLal/classof2020.github.io.git in git and press enter.
 
 Now you should see this:
 
 ![git clonning test](/img/post/clonning.jpg)
 
-After clonning has finished. You should have a local copy or our website, Which seem like this:
+After clonning has finished. You should have a local copy or our website on your desktop, Which seem like this:
 
 ![downloadTest](/img/post/download.jpg)
 
