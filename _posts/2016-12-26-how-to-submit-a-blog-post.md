@@ -35,7 +35,7 @@ Then ...........
 
 After you copied that link go to your desktop the Right click, If your git was installed correctly you should see this:
 
-![git Installation Test](img/post/post-bg-02.jpg)
+![git Installation test](/img/post/post-bg-02.jpg)
 
 **Note:** This is a one-time process, You only need to do it only one time.
 
