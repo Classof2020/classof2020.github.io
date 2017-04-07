@@ -45,20 +45,20 @@ Then Fork your copy of our website by clicking on fork:
 
 After you forked you will be in your own copy of our website, click on clone or download:
 
-![clone](/img/post/clone1.jpg)
+![clone](/img/post/clone1.jpg){:class = "img-responsive"}
 
-![clone2](/img/post/clone2.jpg)
+![clone2](/img/post/clone2.jpg){:class = "img-responsive"}
 
 Copy the link
 
 
 After you copied that link go to your desktop the Right click, If your git was installed correctly you should see this:
 
-![git Installation test](/img/post/post-bg-02.jpg)
+![git Installation test](/img/post/post-bg-02.jpg){:class = "img-responsive"}
 
 Then go to git bash here. Now you should see this:
 
-![git Installation test](/img/post/bg-post-03.jpg)
+![git Installation test](/img/post/bg-post-03.jpg){:class = "img-responsive"}
 
 You may need to configure some profile settings, if so please consult google or contact us.
 
@@ -70,21 +70,22 @@ git clone https://github.com/NischalLal/classof2020.github.io.git in git and pre
 
 Now you should see this:
 
-![git clonning test](/img/post/clonning.jpg)
+![git clonning test](/img/post/clonning.jpg){:class = "img-responsive"}
 
 After clonning has finished. You should have a local copy or our website on your desktop, Which seem like this:
 
-![downloadTest](/img/post/download.jpg)
+![downloadTest](/img/post/download.jpg){:class = "img-responsive"}
 
 **Note:** This is a one-time process, You only need to do it only one time.
 
 Now Navigate to the folder and go to _post folder:
 
-![post](/img/post/post.jpg)
+![post](/img/post/post.jpg){:class = "img-responsive"}
 
 Then in _post folder you will see all the existing blog.
 Go to the template follow the procedure and  start creating your own blog.
-![template](/img/post/template.jpg)
+
+![template](/img/post/template.jpg){:class = "img-responsive"}
 
 
 
