@@ -41,7 +41,7 @@ If you have attend FIT class of November 2016, then you certainly know what **gi
 Most important part, login to github, If you don't have github account, [signup](https://www.github.io).
 Then Fork your copy of our website by clicking on fork:
 
-![Fork](/img/post/fork.jpg)
+![Fork](/img/post/fork.jpg){:class = "img-responsive"}
 
 After you forked you will be in your own copy of our website, click on clone or download:
 
