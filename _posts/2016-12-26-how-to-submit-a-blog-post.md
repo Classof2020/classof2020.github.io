@@ -69,7 +69,9 @@ After you copied that link go to your desktop the Right click, If your git was i
 
 ---------------------------------------------------------------------------------
 
+
 ![git Installation test](/img/post/post-bg-02.jpg){:class = "img-responsive"}
+
 
 ---------------------------------------------------------------------------------
 Then go to git bash here. Now you should see this:
@@ -141,6 +143,7 @@ Go to the template follow the procedure and  start creating your own blog.
 
 5. 	Finally! Save the file, git commit, and git push!
 
+If you have any trouble in cmmit and push, feel free to contach us.
 # Tips
 
 If you want to install image in your post then type
