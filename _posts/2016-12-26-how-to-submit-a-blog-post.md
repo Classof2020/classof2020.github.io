@@ -11,7 +11,7 @@ layout: post
 
 <h4>Complete Guide to create and publish your own blog in Class of 2020</h4>
 
-Pre-requisite: None, but if you know what is git and what github is, then you can skip a lot of this post.
+Pre-requisite: None, but if you know what git is and what the heck github is, then you can skip a lot of this post.
 
 Estimated Time : 10 minutes.
 
@@ -31,8 +31,10 @@ Please give an attempt to do it by yourself,  we will accept any **foolish** mis
 <h4>1. Install git</h4>
 
 
-If you have attend FIT class of November 2016, then you certainly know what **git** is and probably you have already installed on your device. For our new friends **Sumit**, **Suman**, **Jitendra**, Please download git or you can contact [me](https://www.facebook.com/aakrist36) for git. I strongly recommend our new friends to understand what **git** is.
-**Note:** This is a one-time process, You only need to do it only one time.
+If you have attend FIT class of November 2016, then you certainly know what **git** is and probably you have already installed on your device. For our new friends **Sumit**, **Suman**, **Jitendra**, Please download git or you can contact [me](https://www.facebook.com/aakrist36) for git. I strongly recommend our new friends to understand what **git** is and how it functioned.
+
+
+**Note:** This is a one-time process, You only need to do once.
 
 <h4>2. Login to Github</h4>
 
@@ -64,6 +66,8 @@ After clonning has finished. You should have a local copy or our website, Which 
 
 ![downloadTest](/img/post/download.jpg)
 
+**Note:** This is a one-time process, You only need to do it only one time.
+
 Now Navigate to the folder and go to _post folder:
 
 ![post](/img/post/post.jpg)
@@ -72,7 +76,7 @@ Then in _post folder you will see all the existing blog.
 Go to the template follow the procedure and  start creating your own blog.
 ![template](/img/post/template.jpg)
 
-**Note:** This is a one-time process, You only need to do it only one time.
+
 
 <h4>The overall procedure for template.md is also availaible here</h4>
 
