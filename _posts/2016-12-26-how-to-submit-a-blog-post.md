@@ -41,24 +41,45 @@ If you have attend FIT class of November 2016, then you certainly know what **gi
 Most important part, login to github, If you don't have github account, [signup](https://www.github.io).
 Then Fork your copy of our website by clicking on fork:
 
+---------------------------------------------------------------------------------
+
 ![Fork](/img/post/fork.jpg){:class = "img-responsive"}
+
+---------------------------------------------------------------------------------
+
 
 After you forked you will be in your own copy of our website, click on clone or download:
 
+
+---------------------------------------------------------------------------------
+
 ![clone](/img/post/clone1.jpg){:class = "img-responsive"}
 
+---------------------------------------------------------------------------------
+
 ![clone2](/img/post/clone2.jpg){:class = "img-responsive"}
+
+---------------------------------------------------------------------------------
 
 Copy the link
 
 
 After you copied that link go to your desktop the Right click, If your git was installed correctly you should see this:
 
+
+---------------------------------------------------------------------------------
+
 ![git Installation test](/img/post/post-bg-02.jpg){:class = "img-responsive"}
 
+---------------------------------------------------------------------------------
 Then go to git bash here. Now you should see this:
 
+---------------------------------------------------------------------------------
+
+
 ![git Installation test](/img/post/bg-post-03.jpg){:class = "img-responsive"}
+
+---------------------------------------------------------------------------------
 
 You may need to configure some profile settings, if so please consult google or contact us.
 
@@ -70,7 +91,11 @@ git clone https://github.com/NischalLal/classof2020.github.io.git in git and pre
 
 Now you should see this:
 
+---------------------------------------------------------------------------------
+
 ![git clonning test](/img/post/clonning.jpg){:class = "img-responsive"}
+
+---------------------------------------------------------------------------------
 
 After clonning has finished. You should have a local copy or our website on your desktop, Which seem like this:
 
