@@ -37,6 +37,19 @@ After you copied that link go to your desktop the Right click, If your git was i
 
 ![git Installation test](/img/post/post-bg-02.jpg)
 
+Then go to git bash here. Now you should see this:
+
+![git Installation test](/img/post/bg-post-03.jpg)
+
+You may need to configure some profile settings, if so please consult google or contact us.
+
+Now you need to clone our website in your local computer.
+For this copy and paste this git clone https://.........................................  in git and press enter.
+
+Now you should see this:
+
+![git clonning test](/img/post/clonning.jpg)
+
 **Note:** This is a one-time process, You only need to do it only one time.
 
 1.	First make a copy of this file and rename it to date-title. Example. 2016-12-24-tree-plantation.md. 
