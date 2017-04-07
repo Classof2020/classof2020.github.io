@@ -22,9 +22,9 @@ To complete your blog post:
     
 	- subtitle: Date on which the event is going to take place.
 	
-	- date: 
+	- date: Date when you write your blog
 	
-	- author: 
+	- author: Write your name if you have written by yourself.
     
 	- categories: Type of event. It could be conference, campaign, anything.
     
