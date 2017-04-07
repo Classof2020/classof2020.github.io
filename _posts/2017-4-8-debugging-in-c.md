@@ -4,7 +4,7 @@ subtitle: "Keep It Simple Sir"
 date: 2017-4-6 8:51:32
 author: "Nischal Lal Shrestha"
 categories: post
-header-img: "img/post/post-bg-02.jpg"
+header-img: 
 permalink: /2017/4/6/Debugging-in-c
 layout: post
 ---
