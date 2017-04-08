@@ -99,7 +99,7 @@ Now you should see this:
 
 ---------------------------------------------------------------------------------
 
-After clonning has finished. You should have a local copy or our website on your desktop, Which seem like this:
+After clonning has finished. You should have a local copy of our website on your desktop, Which seem like this:
 
 ![downloadTest](/img/post/download.jpg){:class = "img-responsive"}
 
