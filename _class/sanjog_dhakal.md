@@ -1,3 +1,4 @@
+---
 firstname: Sanjog
 lastname: Dhakal
 photo: sanjog.jpg
@@ -12,3 +13,4 @@ instagram: https://www.instagram.com/caredawprld/
 github: 
 memberid:
 layout: profile
+---
