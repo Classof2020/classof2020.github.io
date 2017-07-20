@@ -87,22 +87,4 @@ ul.class .member-phone {
         border-bottom-width: 2px
     }
 }
-.footer {
-    min-height: 120px;
-    margin-top: 60px;
-    padding-top: 30px;
-    background-color: #eee
-}
-.footer .right {
-    font-weight: 500;
-    color: #666
-}
-.footer .license {
-    text-align: right;
-    font-size: 14px;
-    line-height: normal
-}
-.footer .license .license-logo {
-    float: right;
-    margin-left: 10px
-}
+.bd-footer{font-weight:300; padding:4rem 0;margin-top:4rem;font-size:100%;text-align:center;background-color:#f7f7f7}.bd-footer a{font-weight:500;color:#464a4c}.bd-footer a:hover{color:#0275d8}.bd-footer p{margin-bottom:0}@media (min-width:576px){.bd-footer{text-align:left}}.bd-footer-links{padding-left:0;margin-bottom:1rem}.bd-footer-links li{display:inline-block}.bd-footer-links li+li{margin-left:1rem}
