@@ -9,7 +9,7 @@ website:
 facebook: https://www.facebook.com/caredaworld/
 twitter: 
 linkedin: 
-instagram: https://www.instagram.com/caredawprld/
+instagram: https://www.instagram.com/caredaworld/
 github: 
 memberid:
 layout: profile
