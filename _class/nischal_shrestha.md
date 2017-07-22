@@ -7,7 +7,7 @@ email: aakrist666@gmail.com
 phonenumber: 9818681689 
 website: https://aakrist.me
 facebook: https://www.facebook.com/Aakrist36 
-twitter: https://www.twitter.com/StonE_HearteD36 
+twitter: https://www.twitter.com/NischalLal
 linkedin: 
 instagram: 
 github: https://github.com/Aakrist36
