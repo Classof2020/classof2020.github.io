@@ -3,6 +3,7 @@ title: My all time favourite books
 subtitle: 
 date: 2017-4-6 8:46:32
 author: Nischal Lal Shrestha
+author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: sample-post.png
 permalink: 22017/4/6/Sucess-books
