@@ -15,7 +15,7 @@ memberid:
 layout: profile
 ---
 
-# AAKRIST
+# Nischal
 
 Girls used to call me "**Ugly**", then they saw my bank account and started calling me "*Ugly And Poor*".
 
