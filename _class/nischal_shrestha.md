@@ -2,7 +2,7 @@
 firstname: Nischal Lal 
 lastname: Shrestha 
 photo: nischal_shrestha.jpg 
-place: Battar Bazzar, Nuwakot 
+place: Bidur-4, Battar, Nuwakot 
 email: Nischal@pythonair.me 
 phonenumber: 9818681689 
 website: https://aakrist.me
