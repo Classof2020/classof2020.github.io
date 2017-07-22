@@ -4,13 +4,9 @@ description: >
   For the use of individual team profile page.
 ---
 
-<div>
-  <p><a href="{{ '/class' | prepend: site.baseurl }}">&laquo; All Members Of Our Class</a> </p>
-</div>
+  <p class="bread"><a href="{{ '/class' | prepend: site.baseurl }}">&laquo; All Members Of Our Class</a> </p>
 
-<div>
-<h1>{{ page.firstname }} {{ page.lastname }}</h1><br />
-</div>
+  <h1>{{ page.firstname }} {{ page.lastname }}</h1><br />
 
 <div class="class-member">
   <div class="row">

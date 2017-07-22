@@ -23,6 +23,9 @@ ul.class .member-phone {
     color: #5b616b;
     font-size: small;
 }
+.bread {
+  padding-top: 15px;
+}
 .class-member {
     margin-top: 1em;
     h1 {
