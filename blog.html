@@ -11,8 +11,8 @@ permalink: /blog/
     <div class="col-sm-4">
 	  
                 <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4> 
-                {{ post.date | date:"%d %B %Y " }}
-                {{ post.author }}
+                <p>Published On: {{ post.date | date:"%d %B %Y " }}</p>
+                <p>Author: {{ post.author }} </p>
 
     </div>
       {% endfor %}
