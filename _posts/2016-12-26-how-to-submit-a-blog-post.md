@@ -132,6 +132,8 @@ Go to the template follow the procedure and  start creating your own blog.
 	- date: Date on which the event is going to take place.
 	
 	- author: Author of the blogpost.
+
+	-author_url: Your url(fb, personal website, youtube any you want)
     
 	- categories: Type of event. It could be conference, campaign, anything.
     
