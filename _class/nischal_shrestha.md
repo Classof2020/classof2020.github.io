@@ -17,6 +17,11 @@ layout: profile
 
 # Nischal
 
+# Love Everything Thant Make Me More Human
+
+
+I am a Pythonnista. I love 
+
 Girls used to call me "**Ugly**", then they saw my bank account and started calling me "*Ugly And Poor*".
 
 If you don't like me and still looking at my Bio, then you are a **FAN** __babY__ *FAN*.    Ah!! Never Mind!!.
