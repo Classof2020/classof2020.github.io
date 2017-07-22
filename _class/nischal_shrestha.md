@@ -20,7 +20,7 @@ layout: profile
 # Love Everything Thant Make Me More Human.
 
 
-I am a Pythonnista. I love talking with ghost, insulting other, and a Oxford comma.
+I am a Pythonnista.
 
 Girls used to call me "**Ugly**", then they saw my bank account and started calling me "*Ugly And Poor*".
 
