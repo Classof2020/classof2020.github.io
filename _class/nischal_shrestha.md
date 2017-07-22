@@ -15,8 +15,6 @@ memberid:
 layout: profile
 ---
 
-# Nischal
-
 # Love Everything Thant Make Me More Human.
 
 
