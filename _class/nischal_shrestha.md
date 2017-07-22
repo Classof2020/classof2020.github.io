@@ -6,7 +6,7 @@ place: Battar Bazzar, Nuwakot
 email: aakrist666@gmail.com 
 phonenumber: 9818681689 
 website: https://aakrist.me
-facebook: https://www.facebook.com/Aakrist36 
+facebook: https://www.facebook.com/NischalLalShrestha
 twitter: https://www.twitter.com/NischalLal
 linkedin: 
 instagram: 
