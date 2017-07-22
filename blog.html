@@ -13,7 +13,7 @@ permalink: /blog/
                 <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4> 
                 <p>Published On: {{ post.date | date:"%d %B %Y " }}</p>
                 {% if post.author %}
-                  <p>Author: {{ post.author }} </p>
+                  <p>Author: <a href="{{ post.author_url }}">{{ post.author }}</a>  </p>
                 {% endif %}
 
 
