@@ -48,5 +48,5 @@ I am one of the most prominent member of "**The Poshan & Co.**".
 
 
 If we are not connected on social media,
-							Add me on facebook [CLICK HERE TO ADD](https://www.facebook.com/Aakrist36)
-							Follow me on twitter [FOLLOW ME AND GET FOLLOWED](https://www.twitter.com/StonE_HearteD36)
+							Add me on facebook [CLICK HERE TO ADD](https://www.facebook.com/NischalLalShrestha)
+							Follow me on twitter [FOLLOW ME AND GET FOLLOWED](https://www.twitter.com/NischalLal)
