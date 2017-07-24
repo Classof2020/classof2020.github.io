@@ -26,7 +26,7 @@ If you are too busy to follow  these procedures. Message us your post. We will p
 <h5>But, My personal suggestion : Do it yourself</h5>
 For a developer, github is more powerful than your **CV** or **Resume**, if you have idea how it function and you know the ups and down of github, certainly it will be a highlighter in your Arsenal.
 
-Please give an attempt to do it by yourself,  we will accept any **foolish** mistake. [I](https://www.facebook.com/aakrist36) am making a lot of foolish mistake here, but I am learning, So please at least give a try.
+Please give an attempt to do it by yourself,  we will accept any **foolish** mistake. [I](https://www.facebook.com/NischalLalShrestha) am making a lot of foolish mistake here, but I am learning, So please at least give a try.
 
 <h4>1. Install git</h4>
 
