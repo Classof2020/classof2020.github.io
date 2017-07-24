@@ -4,7 +4,7 @@ subtitle:
 date: 2016-12-26 8:46:32
 author: "Nischal Lal Shrestha"
 categories: post
-header-image: 
+header-image: how-to-submit.png
 permalink: /2016/12/26/submitting-a-post
 layout: post
 ---

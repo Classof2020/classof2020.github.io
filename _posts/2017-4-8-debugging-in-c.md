@@ -1,11 +1,11 @@
 ---
-title: "Debuggin in C"
+title: "Debugging in C"
 subtitle: "Keep It Simple Sir"
 date: 2017-4-6 8:51:32
 author: "Nischal Lal Shrestha"
 author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
-header-img: 
+header-image: debugging-in-c.png
 permalink: /2017/4/6/Debugging-in-c
 layout: post
 ---

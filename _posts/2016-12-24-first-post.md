@@ -3,7 +3,7 @@ layout:     post
 title:      The First Post to
 subtitle:   "A sample article for class of 2020"
 date:       2016-12-24 12:00:00
-header-img: "img/post/how.jpg"
+header-image: debugging.jfif
 author:     "Devkota Sagar"
 author_url: www.timeandupdate.com
 ---
