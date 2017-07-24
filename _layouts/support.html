@@ -1,0 +1,18 @@
+---
+layout: base
+description: >
+  For the use of individual team profile page.
+---
+
+</div>
+  <div id="{{ page.title | replace: ' ','-' }}" class="container">
+
+    <div class="mini-section">
+      <h1>{{ page.title }}</h1>
+      <h3>{{ page.description }}</h3>
+    </div>
+  </div>
+
+  <div class="container mini-section">
+    {{ content }}
+  </div>
