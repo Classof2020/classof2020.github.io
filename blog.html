@@ -10,7 +10,13 @@ permalink: /blog/
   {% for post in site.posts %}
     <div class="col-sm-4">
 	  
-                <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4> 
+                <h4><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h4>
+
+                {% if post.header-image %}
+                  <img src="/img/post/{{ post.header-image }}" alt="Photo of {{ post.title }}">
+                {% else %}
+                  <img src="{{ site.baseurl }}/img/post/default-blog-image.png" >
+                {% endif %} 
                 <p>Published On: {{ post.date | date:"%d %B %Y " }}</p>
                 {% if post.author %}
                   <p>Author: <a href="{{ post.author_url }}">{{ post.author }}</a>  </p>
