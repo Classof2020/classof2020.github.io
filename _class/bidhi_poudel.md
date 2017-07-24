@@ -15,4 +15,4 @@ memberid:
 layout: profile
 ---
 
-Hello, My name is Bidhi Poudel, I am very good and I am looking for a new girlfriend.
+Hello, My name is Bidhi Poudel.
