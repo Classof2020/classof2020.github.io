@@ -31,7 +31,7 @@ Please give an attempt to do it by yourself,  we will accept any **foolish** mis
 <h4>1. Install git</h4>
 
 
-If you have attend FIT class of November 2016, then you certainly know what **git** is and probably you have already installed on your device. For our new friends **Sumit**, **Suman**, **Jitendra**, Please download git or you can contact [me](https://www.facebook.com/aakrist36) for git. I strongly recommend our new friends to understand what **git** is and how it functioned.
+If you have attend FIT class of November 2016, then you certainly know what **git** is and probably you have already installed on your device. For our new friends **Sumit**, **Suman**, **Jitendra**, Please download git or you can contact [me](https://www.facebook.com/NischalLalShrestha) for git. I strongly recommend our new friends to understand what **git** is and how it functioned.
 
 
 **Note:** This is a one-time process, You only need to do once.
