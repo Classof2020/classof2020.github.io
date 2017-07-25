@@ -14,6 +14,4 @@ github:
 memberid:
 layout: profile
 ---
-#About Me
 
-Don't date her. Running through the squad,SLAVE HER
