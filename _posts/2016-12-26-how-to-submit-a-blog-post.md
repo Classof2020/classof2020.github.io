@@ -3,6 +3,7 @@ title: "How to Submit a Blog Post"
 subtitle: 
 date: 2016-12-26 8:46:32
 author: "Nischal Lal Shrestha"
+author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: how-to-submit.png
 permalink: /2016/12/26/submitting-a-post

@@ -3,7 +3,7 @@ title: Why You Should Learn Python Right Now?
 subtitle: 
 date: 2016-7-25 7:47:9
 author: Nischal Lal Shrestha
-author_url: www.facebook.com/NischalLalShrestha
+author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: python.png
 permalink: 2017/7/25-why-learn-python

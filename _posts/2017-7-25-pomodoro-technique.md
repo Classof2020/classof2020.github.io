@@ -3,7 +3,7 @@ title: Pomodoro Technique
 subtitle: 
 date: 2017-7-25 8:04:9
 author: Nischal Lal Shrestha
-author_url: www.facebook.com/NischalLalShrestha
+author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: pomodoro.png
 permalink: 2017/7/25-pomodoro-technique
