@@ -5,7 +5,7 @@ subtitle:   "A sample article for class of 2020"
 date:       2016-12-24 12:00:00
 header-image: debugging.jfif
 author:     "Devkota Sagar"
-author_url: www.timeandupdate.com
+author_url: http://www.devkotasagar.com.np
 ---
 
 As our First Post here is Man and Earth. Copy pasted.
