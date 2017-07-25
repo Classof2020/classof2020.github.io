@@ -15,6 +15,6 @@ memberid:
 layout: profile
 ---
 
-poshan says ' I am born in nepal
-dont mess with me '. Also the CEO of The Poshan & Co. 
+Poshan says ' I am born in nepal
+dont mess with me '. Also the,then CEO of The Poshan & Co. 
 
