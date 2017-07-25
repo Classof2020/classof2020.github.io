@@ -6,7 +6,7 @@ author: Nischal Lal Shrestha
 author_url: www.facebook.com/NischalLalShrestha
 categories: post
 header-image: python.png
-permalink: 2017/7/25-a-post
+permalink: 2017/7/25-why-learn-python
 layout: post
 ---
 
