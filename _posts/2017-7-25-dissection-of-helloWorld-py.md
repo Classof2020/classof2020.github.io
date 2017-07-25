@@ -6,7 +6,7 @@ author: Nischal Lal Shrestha
 author_url: www.facebook.com/NischalLalShrestha
 categories: post
 header-image: helloWorld_py.png
-permalink: 2017/7/25-a-post
+permalink: 2017/7/25-dissection-of-helloworld
 layout: post
 ---
 
