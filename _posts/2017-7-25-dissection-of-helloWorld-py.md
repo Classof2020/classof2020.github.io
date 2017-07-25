@@ -10,4 +10,4 @@ permalink: 2017/7/25-a-post
 layout: post
 ---
 
-#Let's Dissect our HelloWorld.py
+# Let's Dissect our HelloWorld.py
