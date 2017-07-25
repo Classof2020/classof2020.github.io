@@ -15,4 +15,4 @@ memberid:
 layout: profile
 ---
 
-Bio Section for Ujjwal(Gunners)
+Bio Section for Ujjwal(Gunners).
