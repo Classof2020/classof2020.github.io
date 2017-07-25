@@ -10,4 +10,4 @@ permalink: 2017/7/25-a-post
 layout: post
 ---
 
-#Why Should You Learn Python?
+# Why Should You Learn Python?
