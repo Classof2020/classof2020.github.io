@@ -3,14 +3,14 @@ firstname: Sagar
 lastname: Devkota 
 photo: sagar_devkota.jpg
 place: Pokhara 
-email: sagar@timeandupdate.com 
+email: info@devkotasagar.com.np 
 phonenumber:
-website: https://www.devkotasagar.com.np/ 
-facebook: https://facebook.com/sagardev1998 
+website: http://www.devkotasagar.com.np/ 
+facebook:  
 twitter: https://twitter.com/info_devkota 
 linkedin: 
 instagram: 
-github: 
+github: https://github.com/infodevkota
 memberid:
 layout: profile
 ---
