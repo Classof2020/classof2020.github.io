@@ -1,7 +1,7 @@
 ---
 title: Pomodoro Technique
 subtitle: 
-date: 2016-7-25 8:04:9
+date: 2017-7-25 8:04:9
 author: Nischal Lal Shrestha
 author_url: www.facebook.com/NischalLalShrestha
 categories: post
