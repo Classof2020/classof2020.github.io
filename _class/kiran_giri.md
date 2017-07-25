@@ -15,4 +15,4 @@ memberid:
 layout: profile
 ---
 
-Hello Friends, I am Kiran
+Hello Friends, I am Kiran.
