@@ -3,7 +3,7 @@ title: How to Submit a Blog Post?
 subtitle: Simple steps to complete a blog post
 date: 2016-12-26 8:46:32
 author: MegaMindAT
-author_url: www.example.complete
+author_url: https://www.aashishtiwari.com.np
 categories: post
 header-image: sample-post.png
 permalink: 2016/12/26/submitting-a-post
@@ -27,7 +27,7 @@ To complete your blog post:
 	
 	- author: Write your name if you have written by yourself.
 
-	-author_url: Write the link, where you want to lead your reader when they click on your link
+	-author_url: Write the link, where you want to lead your reader when they click on your Name. Please use full adress including http or https. eg: https://www.example.com.np
     
 	- categories: Type of event. It could be conference, campaign, anything.
     
