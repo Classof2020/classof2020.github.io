@@ -30,7 +30,7 @@ collections:
   posts:
     permalink: /posts/:title/
     output: true
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
