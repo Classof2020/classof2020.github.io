@@ -15,7 +15,7 @@ Pre-requisite: None, but if you know what git is and what the heck github is, th
 
 Estimated Time : 10 - 15 minutes.
 
-If you are too busy to follow  these procedures. Message us your post. We will publish under your name(Believe me).
+If you are too busy to follow  these procedures. Message us your post. We will publish under your name(Believe me)git .
 
 [Message your post to Nischal Lal Shrestha](https://www.facebook.com/NischalLalShrestha)
 
@@ -26,12 +26,12 @@ If you are too busy to follow  these procedures. Message us your post. We will p
 <h5>But, My personal suggestion : Do it yourself</h5>
 For a developer, github is more powerful than your **CV** or **Resume**, if you have idea how it function and you know the ups and down of github, certainly it will be a highlighter in your Arsenal.
 
-Please give an attempt to do it by yourself,  we will accept any **foolish** mistake. [I](https://www.facebook.com/NischalLalShrestha) am making a lot of foolish mistake here, but I am learning, So please at least give a try.
+Please give an attempt to do it by yourself,  we will accept any **foolish** mistake. [I](https://www.facebook.com/NischalLalShrestha) am making a lot of foolish mistake here, but I am learning, So please at least give a try. There is no wrong in being stupid.
 
 <h4>1. Install git</h4>
 
 
-If you have attend FIT class of November 2016, then you certainly know what **git** is and probably you have already installed on your device. For our new friends **Sumit**, **Suman**, **Jitendra**, Please download git or you can contact [me](https://www.facebook.com/NischalLalShrestha) for git. I strongly recommend our new friends to understand what **git** is and how it functioned.
+If you have attend FIT class of November 2016, then you certainly know what **git** is and probably you have already installed on your device. For our new friends **Sumit**, **Suman**, **Jitendra**, and other who were absent,  Please download (https://git-scm.com/downloads) or you can contact [me](https://www.facebook.com/NischalLalShrestha) for git. I strongly recommend our new friends to understand what **git** is and how it functions.
 
 
 **Note:** This is a one-time process, You only need to do once.
@@ -64,7 +64,7 @@ After you forked you will be in your own copy of our website, click on clone or 
 Copy the link
 
 
-After you copied that link go to your desktop the Right click, If your git was installed correctly you should see this:
+After you copied that link go to your desktop, then Right click, If your git was installed correctly you should see this:
 
 
 ---------------------------------------------------------------------------------
@@ -83,7 +83,7 @@ Then go to git bash here. Now you should see this:
 
 ---------------------------------------------------------------------------------
 
-You may need to configure some profile settings, if so please consult google or contact us.
+You may need to configure some [Profile Settings](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
 
 Now you need to clone our website in your local computer.
 
@@ -145,7 +145,7 @@ Go to the template follow the procedure and  start creating your own blog.
 
 5. 	Finally! Save the file, git commit, and git push!
 
-If you have any trouble in cmmit and push, feel free to contach us.
+If you have any trouble in commit and push, feel free to contach us.
 # Tips
 
 If you want to install image in your post then type
