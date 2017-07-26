@@ -15,7 +15,7 @@ Pre-requisite: None, but if you know what git is and what the heck github is, th
 
 Estimated Time : 10 - 15 minutes.
 
-If you are too busy to follow  these procedures. Message us your post. We will publish under your name.
+If you are too busy to follow  these procedures. Message us your post. We will publish under your name(Believe me).
 
 [Message your post to Nischal Lal Shrestha](https://www.facebook.com/NischalLalShrestha)
 
