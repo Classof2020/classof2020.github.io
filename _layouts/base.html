@@ -16,10 +16,10 @@ description: >
     {% else %}
       <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
     {% endif %}
-	
+
 	<base href="{{ site.baseurl }}" />
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-	<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,700i" rel="stylesheet">
+  <link rel="stylesheet" media="screen" href="https://fontlibrary.org/face/hk-grotesk" type="text/css"/>
 	<link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | prepend: site.baseurl }}">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<link rel="stylesheet" href="{{ '/assets/js/bootstrap.min.js' | prepend: site.baseurl }}">
