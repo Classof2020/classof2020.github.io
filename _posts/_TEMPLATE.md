@@ -1,39 +1,35 @@
 ---
-title: How to Submit a Blog Post?
-subtitle: Simple steps to complete a blog post
-date: 2016-12-26 8:46:32
-author: MegaMindAT
-author_url: https://www.aashishtiwari.com.np
-categories: post
-header-image: sample-post.png
-permalink: 2016/12/26/submitting-a-post
+title:
+subtitle:
+date:
+author:
+author_url:
+categories:
+header-image:
 layout: post
 ---
 
 To complete your blog post:
 
-1.	First make a copy of this file and rename it to date-title. Example. 2016-12-24-tree-plantation.md. 
-    Open that file and edit it (don't edit this original TEMPLATE file).
+1.	First make a copy of this file and rename it to date-title. Example.         2016-12-24-climate-change-is-real.md. Open that file and edit it (don't edit this original TEMPLATE file).
 
-2.	If you wanCopy image for the blog post to the img/post/ directory. Name it using
+2.	Copy the image file for your post to img/post/ directory. If you do not need to insert image in your post, you can skip this step.
 
-1. 	Fill out the above fields: title, subtitle, date, author, categories, header-image and permalink.
-    
+1. 	Fill out the above fields: title, subtitle, date, author, categories, header-image and layout.
+
 	- title: Title of your blog post.  
-    
-	- subtitle: Date on which the event is going to take place.
-	
-	- date: Date when you write your blog
-	
-	- author: Write your name if you have written by yourself.
 
-	-author_url: Write the link, where you want to lead your reader when they click on your Name. Please use full adress including http or https. eg: https://www.example.com.np
-    
-	- categories: Type of event. It could be conference, campaign, anything.
-    
-	- header-image: Where the event is being held.
+	- subtitle: 100 words summary of the post.
 
-	- permalink: permanent link for the event like /2016/08/23/testfile
+	- date: Date the post was written on.
+
+	- author: Your name or the person who wrote the post.
+
+	-author_url: Link to author page. Please use full address including http or https. eg: https://www.example.com.np
+
+	- categories: Category of post. Like, sports, tutorial, quote, anything.
+
+	- header-image: This image is used as the banner for the post. To upload files, watch step 2. Paste the file name along with the proper extension of the file you just uploaded.
 
 4. 	Delete all of this instructional text and replace it with the actual content.
 
@@ -45,4 +41,3 @@ share such as your resume. Here are some resources on learning Markdown:
   - https://guides.github.com/features/mastering-markdown/ - a reference
     guide
   - http://www.markdowntutorial.com/ - a more comprehensive tutorial
-
