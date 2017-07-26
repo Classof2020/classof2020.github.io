@@ -13,7 +13,7 @@ layout: post
 
 Pre-requisite: None, but if you know what git is and what the heck github is, then you can skip a lot of this post.
 
-Estimated Time : 10 minutes.
+Estimated Time : 10 - 15 minutes.
 
 If you are too busy to follow  these procedures. Message us your post. We will publish under your name.
 
