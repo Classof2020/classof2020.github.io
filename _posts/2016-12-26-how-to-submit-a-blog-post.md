@@ -1,12 +1,11 @@
 ---
 title: "How to Submit a Blog Post"
-subtitle: 
+subtitle:
 date: 2016-12-26 8:46:32
 author: "Nischal Lal Shrestha"
 author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: how-to-submit.png
-permalink: /2016/12/26/submitting-a-post
 layout: post
 ---
 
@@ -16,9 +15,9 @@ Pre-requisite: None, but if you know what git is and what the heck github is, th
 
 Estimated Time : 10 minutes.
 
-If you are too busy to follow  these procedures. Message us your post. We will publish under your name. 
+If you are too busy to follow  these procedures. Message us your post. We will publish under your name.
 
-[Message your post to Nischal Lal Shrestha](https://www.facebook.com/aakrist36) 
+[Message your post to Nischal Lal Shrestha](https://www.facebook.com/aakrist36)
 
 [Message your post to Ashish](https://www.facebook.com/megamindat) or
 
@@ -119,25 +118,25 @@ Go to the template follow the procedure and  start creating your own blog.
 
 <h4>The overall procedure for template.md is also availaible here</h4>
 
-1.	First make a copy of this file and rename it to date-title. Example. 2016-12-24-tree-plantation.md. 
+1.	First make a copy of this file and rename it to date-title. Example. 2016-12-24-tree-plantation.md.
     Open that file and edit it (Please don't forget to enter valid date, and don't edit this original TEMPLATE file).
 
 2.	If you want image for your blog post, save the image in the directory img/post/ and mention the image name in header-image.
 
 3. 	Fill out the above fields: title, subtitle, date, author, categories, header-image and permalink.
-    
+
 	- title: Title of your blog post.  
-    
+
 	- subtitle: Subtitle of your post.
-	
+
 	- date: Date on which the event is going to take place.
-	
+
 	- author: Author of the blogpost.
 
 	-author_url: Your url(fb, personal website, youtube any you want)
-    
+
 	- categories: Type of event. It could be conference, campaign, anything.
-    
+
 	- header-image: Header image for your blog
 
 	- permalink: permanent link for the event like /2016/08/23/testfile
@@ -151,7 +150,7 @@ If you have any trouble in cmmit and push, feel free to contach us.
 
 If you want to install image in your post then type
   <p>![Alternate text](path to the image)</p>
-  
+
   For real demo, see the .md file of this post.
 
 This file uses Markdown formatting. You can use Markdown to add emphasis
@@ -160,8 +159,8 @@ share such as your resume. Here are some resources on learning Markdown:
   - https://guides.github.com/features/mastering-markdown/ - a reference
     guide
   - http://www.markdowntutorial.com/ - a more comprehensive tutorial
-  
-  
+
+
  **Special** **Thank**:
- 
+
  [Ashish Tiwari](https://www.facebook.com/megamindat)

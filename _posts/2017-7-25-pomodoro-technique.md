@@ -1,12 +1,11 @@
 ---
 title: Pomodoro Technique
-subtitle: 
+subtitle:
 date: 2017-7-25 8:04:9
 author: Nischal Lal Shrestha
 author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: pomodoro.png
-permalink: 2017/7/25-pomodoro-technique
 layout: post
 ---
 
@@ -16,7 +15,7 @@ For many of us, time is our arch enemy. We are always in a race against the cloc
 
 <h4> What is Pomodoro Technique? </h4>
 
-The Pomodoro Technique is a time management system that encourages people to work with the time they have—rather than against it. 
+The Pomodoro Technique is a time management system that encourages people to work with the time they have—rather than against it.
 
 <h4> Technique Behind This </h4>
 At its core, the technique behind is quite simple. So simple that most people often dismiss this idea.
@@ -24,12 +23,12 @@ At its core, the technique behind is quite simple. So simple that most people of
 
 The basic idea is that you plan out the work you’re going to do for a day.
 Then you set a timer for 25 minutes and work on the first task you’ve
-planned. You only work on a sinle task during one time and give complete attention on this single task. 
+planned. You only work on a sinle task during one time and give complete attention on this single task.
 
 If you’re interrupted, there are various
 ways of handling the interruption, but generally you strive to not be inter-
 rupted at all. You never want to break focus. At the end of the 25 minutes, you set a timer for 5 minutes and take a
-break. That’s considered 1 pomodoro. 
+break. That’s considered 1 pomodoro.
 
 After every 4 **pomodori**, you can take a longer break usually 10-15 minutes.
 
@@ -44,4 +43,4 @@ of apps for tracking and recording pomodori.
 
 Why don't you give a try?
 
-[Learn More](https://cirillocompany.de/pages/pomodoro-technique) 
+[Learn More](https://cirillocompany.de/pages/pomodoro-technique)

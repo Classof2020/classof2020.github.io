@@ -27,6 +27,9 @@ collections:
   class:
     permalink: /class/:name/
     output: true
+  posts:
+    permalink: /posts/:title/
+    output: true
 gems:
   - jekyll-feed
 exclude:
