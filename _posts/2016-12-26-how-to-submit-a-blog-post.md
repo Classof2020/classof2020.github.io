@@ -17,7 +17,7 @@ Estimated Time : 10 minutes.
 
 If you are too busy to follow  these procedures. Message us your post. We will publish under your name.
 
-[Message your post to Nischal Lal Shrestha](https://www.facebook.com/aakrist36)
+[Message your post to Nischal Lal Shrestha](https://www.facebook.com/NischalLalShrestha)
 
 [Message your post to Ashish](https://www.facebook.com/megamindat) or
 
