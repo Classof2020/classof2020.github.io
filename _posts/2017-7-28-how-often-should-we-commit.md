@@ -20,7 +20,7 @@ Just a line of quote may lead you to think that this post is all about commits i
 
 Hell No!!, This post is about git commit. I repeat .. git commit.
 
-Before, I jump on to my views on git commit, First let's know what git commit is. <strong>In a layman's term, git commit is recording the changes you have made on a version of a file/s you have.</strong>sss
+Before, I jump on to my views on git commit, First let's know what git commit is. <strong>In a layman's term, git commit is recording the changes you have made on a version of a file/s you have.</strong>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Have you ever see people rock climbing or experienced it by yourself. What we do in rock climbing ? We climb up a little distance, and then we put anchor in the rock, we again climb up a little distance then again we put anchor in the rock. By any misfortune you ever fall, the last anchor you planted in the rock secures you. You will never fall more than a few meteres. This is all with git, you code a little bit, and whenever you find a somehow stable position, you commit. By any badluck you fail here, you can always go back to the commit and you know  it is a stable position.
