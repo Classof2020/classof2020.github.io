@@ -7,9 +7,9 @@ email: sarojbhattarai800@gmail.com
 phonenumber: 9868635719 
 website: 
 facebook: https://facebook.com/sar.bht 
-twitter: https://twitter.com/sarojbhattaraii 
+twitter: https://twitter.com/sarojofficial
 linkedin: 
-instagram: https://instagram.com/sarojbhattaraii 
+instagram: https://instagram.com/sarojbhattarai800 
 github: https://github.com/sarojbhattarai 
 memberid:
 layout: profile
@@ -17,6 +17,6 @@ layout: profile
 
 When I see someone extremely smart, I stare and smile. Then I put down the mirror. 
 
-Passionately curious about "Theory of Relativity". One of the prominent member and well wisher of The Poshan & Co. If I could succeed to fullfill my dreams I would like to start my own business. And I'm preparing myself that. A great nature lover. Conscious about Climate Change though loves to travel on Nepal Yatayat. 
+Passionately curious about "Theory of Relativity". One of the prominent member and well wisher of The Poshan & Co.  
 
-Open minded, shy. I give priority to listening over speaking. Little bit talented, people say.
+A device that turns coffee into code. Frontend develper! Youtuber!. Extremely talented. Candid! #LM10 Hi!

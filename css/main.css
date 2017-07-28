@@ -16,6 +16,7 @@ ul.class li img {
 ul.class .member-name {
     color: #0B0C0C;
     font-size: 19px;
+	clear:both;
 }
 ul.class .member-email,
 ul.class .member-place,
