@@ -7,6 +7,7 @@ author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: pomodoro.png
 layout: post
+comments: true
 ---
 
 <h4> Don't Struggle with time. </h4>

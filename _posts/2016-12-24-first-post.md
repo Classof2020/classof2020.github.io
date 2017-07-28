@@ -6,6 +6,7 @@ date:       2016-12-24 12:00:00
 header-image: debugging.jfif
 author:     "Devkota Sagar"
 author_url: http://www.devkotasagar.com.np
+comments: true
 ---
 
 As our First Post here is Man and Earth. Copy pasted.

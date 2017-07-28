@@ -7,6 +7,7 @@ author_url:
 categories:
 header-image:
 layout: post
+comments: true
 ---
 
 To complete your blog post:

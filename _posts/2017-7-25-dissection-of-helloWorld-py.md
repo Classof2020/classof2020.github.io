@@ -7,6 +7,7 @@ author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: helloWorld_py.png
 layout: post
+comments: true
 ---
 
 # Let's Dissect our HelloWorld.py

@@ -7,6 +7,7 @@ author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: how-to-submit.png
 layout: post
+comments: true
 ---
 
 <h4>Complete Guide to create and publish your own blog in Class of 2020</h4>

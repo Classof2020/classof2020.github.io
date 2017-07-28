@@ -7,6 +7,7 @@ author_url: http://ww1.classof2020.xyz/class/nischal-shrestha/
 categories: post
 header-image: all-time-fav.png
 layout: post
+comments: true
 ---
 # How I started reading books
 
