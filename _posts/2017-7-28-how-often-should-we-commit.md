@@ -40,9 +40,7 @@ So,
 
 
 <blockquote>
-
-The best answer to question "How often should you commit?" would be <stron>"More often than you are doing now"</strong>. Commit every change that you don't think breaks something, But otherwise, the smaller the changes you commit the better. 
-
+	The best answer to question "How often should you commit?" would be <strong>"More often than you are doing now"</strong>. Commit every change that you don't think breaks something, But otherwise, the smaller the changes you commit the better. 
 </blockquote>
 
 
@@ -63,6 +61,8 @@ So,
 Commit every change that you think WORTH COMMITING.
 Commit as long as you don't get repine about doing so.
 Commit if you don't optate to get screwed up.
+
+Quick Tip: Git messages are generally written in present tense emphasizing what the commit does. For example: Fixes wrong indentation in index.html.
 
 
 
