@@ -5,7 +5,7 @@ date: 2017-8-3
 author: Nischal Lal Shrestha
 author_url:
 categories:
-header-image: dont_rel.pn
+header-image: dont_rel.png
 layout: post
 comments: true
 ---
