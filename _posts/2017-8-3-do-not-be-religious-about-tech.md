@@ -10,13 +10,13 @@ layout: post
 comments: true
 ---
 
-I cannot verbally express you are religious person or not. Regardless, you are religious or not, I hope you will agree with me that most fatal, pernicious, bloody wars in history were fought over religion(to some extent).It is quite doleful that same religious notions is incrementing about technology and software development. Butt, a sigh of relief, we don't kill people if they prefer Linux to windows, or iOS to Android or Java to C++.
+I cannot verbally express you are religious person or not. Regardless, you are religious or not, I hope you will agree with me that most fatal, pernicious, bloody wars in history were fought over religion(to some extent).It is quite doleful that same religious notions is incrementing about technology and software development. Butt, a sigh of relief, we don't kill people if they prefer Linux to windows, or iOS to Android or Java to C++ or ...
 
-To some extent, every people in the technical field are religious about their technology(programming language, OS, and other). It is quite natural to believe that what we have chose is best. Just like sports, we are so charged with passion, enthusiasm our all opinion are conspicuously more charged. So we always believe that our choice is greatest of great.
+To some extent, every people in the technical field are religious about their technology(programming language, OS, and other). It is quite natural to believe that what we have chose is best. Just like sports, we are so charged with passion, enthusiasm, our all opinion are conspicuously more charged. So we always believe that our choice is greatest of great.
 
 Butt, when such religious credence leads you to believe that every 'X' is **shit** compare to your glorious 'Y' is disastrous. It is so destructive to yourself if you develop this sort of thinking. If you dogmatically pretend belief that 'Y' is best, predicated on your own, individual belief or, with the people of the same kind of mentality then you are in a path of destruction, limitation and circumscription. I mean, Relish life, explore every technology, taste everything. Possibly, you may not know that you were starving till you tasted other things.
 
-Let's explore the holy war between Linux and Winows?
+Let's explore the holy war between Linux and Winows(Derived from technological religious extremist)?
 
 You could find a Linux fanboy in every group. But, some Linux fanboys are so preoccupied with their presuppositions that they hate 'X' comparing 'X' with Linux, Linux is an authoritative figure. Linux was made to rule. 
 
