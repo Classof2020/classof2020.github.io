@@ -16,7 +16,7 @@ To some extent, every people in the technical field are religious about their te
 
 Butt, when such religious credence leads you to believe that every 'X' is **shit** compare to your glorious 'Y' is disastrous. It is so destructive to yourself if you develop this sort of thinking. If you dogmatically pretend belief that 'Y' is best, predicated on your own, individual belief or, with the people of the same kind of mentality then you are in a path of destruction, limitation and circumscription. I mean, Relish life, explore every technology, taste everything. Possibly, you may not know that you were starving till you tasted other things.
 
-Let's explore examine the holy war between Linux and Winows?
+Let's explore the holy war between Linux and Winows?
 
 You could find a Linux fanboy in every group. But, some Linux fanboys are so preoccupied with their presuppositions that they hate 'X' comparing 'X' with Linux, Linux is an authoritative figure. Linux was made to rule. 
 
