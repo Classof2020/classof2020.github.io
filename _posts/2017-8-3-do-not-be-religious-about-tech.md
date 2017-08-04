@@ -24,15 +24,15 @@ Butt, when such religious credence leads you to believe that every 'X' is **shit
 -----------------
 # Holy War: Linux Vs Windows?
 
-You could find a Linux fanboy in every group. There is no problem in being Linux Fanboy. But, some Linux fanboys are so preoccupied with their presuppositions that they hate 'X' comparing 'X' with Linux, Linux is an authoritative figure. Linux was made to rule. 
+You could find a Linux fanboy in every group. There is no problem in being a Linux Fanboy. But, some Linux fanboys are so preoccupied with their presuppositions that they hate 'X' comparing 'X' with Linux, Linux is an authoritative figure. Linux was made to rule. 
 
 They always verbalize, Linux doesn't have the virus, ransomware.Is there no ransomware on Linux? Is there no virus on Linux? I don't think you will verbalize that unless you are **living under the rock**. Have you heard about KillDisk*, BadBunny, Rexob, Hummingbad, Turla, NyaDrop, Kaiten, Hand of Larcenist, satyg, staor, Nuxbee, kagob a, kagob b, Hasher, Diesel, Coin, binom and there were many other additionally. Certainly, No technology is best. There are ups and downs in everything.
 
 
-The same thing with windows evangelist. When windows get assailed by some VIRUS or RANSOMWARE. They verbalize, "Windows have more users, So there is more virus assailing windows. Who on the earth will make virus for 10 people, comparing to 1.5 billion windows users?". 
-The quandary here is, our windows evangelist doesn't know or is pretending not to know that more than 91% of all web servers run on Linux. If someone could hack that shit, they could pull down whole world in a matter of an hour.
+The same thing with Windows evangelist. When Windows get assailed by some VIRUS or RANSOMWARE. They verbalize, "Windows have more users, So there is more virus assailing Windows. Who on the earth will make virus for 10 people, comparing to 1.5 billion windows users?". 
+The quandary here is, our Windows evangelist doesn't know or is pretending not to know that more than 91% of all web servers run on Linux. If someone could hack that shit, they could pull down whole world in a matter of an hour.
 
-The discussion here is not about Linux or Windows. The main point is not to **concretise our thinking** and way of visually perceiving world. Everyone is in liberty to cull whatever they like. Please don't circumscribe your options. Taste everything. There is no good reason to dogmatically insist that your technology is best at an expense of ignoring all others.
+The discussion here is not about Linux or Windows. The main point is not to **concretise our thinking** and way of visually perceiving world. If you love **X** then it necessarily doesn't mean you should hate **Y**. Everyone is in liberty to cull whatever they like. Please don't circumscribe your options. Taste everything. There is no good reason to dogmatically insist that your technology is best at an expense of ignoring all others.
 
 So, the problem is not **awareness**, it is **atitude**.
 
