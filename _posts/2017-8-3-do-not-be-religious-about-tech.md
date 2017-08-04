@@ -11,7 +11,7 @@ comments: true
 ---
 ---
 <h3> Are you Religious? </h3>
-I cannot verbally express you are a religious person or not. Regardless, you are religious or not, I hope you will agree with me that most fatal, pernicious, bloody wars in history were fought over religion(to some extent).It is quite doleful that same religious notions is incrementing about technology and software development. Butt, a sigh of relief, **we don't kill people if they prefer Linux to windows, or iOS to Android or Java to C++ or ...** Imagine what would be **Earth**, if Android users starts killing iOS users and vice-versa.
+I cannot verbally express you are a religious person or not. Regardless, you are religious or not, I hope you will agree with me that most fatal, pernicious, bloody wars in history were fought over religion(to some extent).It is quite doleful that same religious notions is incrementing about technology and software development. Butt, a sigh of relief, **we don't kill people if they prefer Linux to windows, or iOS to Android or Java to C++ or ...** Imagine what would be **Earth**, if Android users starts killing iOS users and vice-versa and so on....
 <blockquote>
 We don't kill people if they prefer Linux to Windows, iOS to Android, ..
 </blockquote>
