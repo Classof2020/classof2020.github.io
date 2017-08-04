@@ -37,7 +37,7 @@ The discussion here is not about Linux or Windows. The main point is not to **co
 So, the problem is not **awareness**, it is **atitude**.
 
 We should know,
-Not all technology are best, most of technology we use are better form of **Good**. Certainly, in different circumstances, different technology might be a better choice, even best. Butt, it is quite idiotic to think that your **X** is always great. Can you tell me a best **text editor** or best **best browser** for all? Certainly you know what is best for yourself but for all? NO!!Can you? We are all divierse and this is what make us more powerful. We can' have same understanding on everything. Let's accept this fact.
+Not all technology are best, most of technology we use are better form of **Good**. Certainly, in different circumstances, different technology might be a better choice, even best. Butt, it is quite idiotic to think that your **X** is always great. Can you tell me a best **text editor** or best **best browser** for all? Certainly you know what is best for yourself but for all? NO!!Can you? We are all diverse and this is what make us more powerful. We can't have same understanding on everything and we should not. Let's accept this fact.
 
 
 
