@@ -7,7 +7,7 @@ author_url:
 categories:
 header-image: dont_rel.png
 layout: post
-comments: true
+comments: false
 ---
 ---
 <h3> Are you Religious? </h3>
@@ -15,7 +15,10 @@ I cannot verbally express you are a religious person or not. Regardless, you are
 <blockquote>
 We don't kill people if they prefer Linux to Windows, iOS to Android, ..
 </blockquote>
+
 To some extent, every people in the technical field are religious about their technology(programming language, OS, and other). **It is quite natural to believe that what we have chose is best**. Just like sports, we are so charged with passion, enthusiasm, our all opinion are conspicuously more charged. So we always believe that our choice is **greatest of great**.
+
+#
 
 Butt, when such religious credence leads you to believe that every 'X' is **shit** compare to your glorious 'Y' is very **disastrous**. It is so destructive to yourself if you develop this sort of thinking. If you dogmatically pretend belief that 'Y' is best, predicated on your own, individual belief or, with the people of the same kind of mentality then you are in a **path of destruction, limitation and circumscription**. I mean, Relish life, explore every technology, **taste everything**. Possibly, you may not know that you were **starving till you tasted other things**.
 -----------------
