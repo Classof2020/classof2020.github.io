@@ -15,4 +15,6 @@ memberid:
 layout: profile
 ---
 
-Bio Section for Amit, Please update this soon.
+**Hi** I am Amit. I am a software developer and designer who love to write code in every possible language known to human. I wors mostly as a hired bomb for a startups in super trouble, who need a superhero to help trainwreck projects around. I am studying Software Engineering @NCIT.
+
+While I am not coding, I play with my cats.
