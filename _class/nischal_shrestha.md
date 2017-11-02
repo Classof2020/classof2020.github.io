@@ -15,7 +15,7 @@ memberid:
 layout: profile
 ---
 
-# Love Everything Thant Make Me More Human.
+# Love Everything That Make Me More Human.
 
 
 I am a Pythonnista.
