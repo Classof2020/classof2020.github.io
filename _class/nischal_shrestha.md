@@ -5,17 +5,17 @@ photo: nischal_shrestha.jpg
 place: Bidur-4, Battar, Nuwakot 
 email: hi@nischal.info.np 
 phonenumber: 9818681689 
-website: https://aakrist.me
-facebook: https://www.facebook.com/NischalLalShrestha
-twitter: https://www.twitter.com/NischalLal
+website: https://nischal.info.np
+facebook: https://www.facebook.com/theonlyNischal
+twitter: https://www.twitter.com/theonlyNischal
 linkedin: 
 instagram: 
-github: https://github.com/Aakrist36
+github: https://github.com/theonlyNischal
 memberid:
 layout: profile
 ---
 
-# Love Everything That Make Me More Human.
+# I Love Everything That Makes Me More Human.
 
 
 I am a Pythonnista.
@@ -48,5 +48,5 @@ I am one of the most prominent member of "**The Poshan & Co.**".
 
 
 If we are not connected on social media,
-							Add me on facebook [CLICK HERE TO ADD](https://www.facebook.com/NischalLalShrestha)
-							Follow me on twitter [FOLLOW ME AND GET FOLLOWED](https://www.twitter.com/NischalLal)
+							Add Nischal on facebook [CLICK HERE TO ADD](https://www.facebook.com/theonlyNischal)
+							Follow Nischal on twitter [FOLLOW ME AND GET FOLLOWED](https://www.twitter.com/theonlyNischal)
