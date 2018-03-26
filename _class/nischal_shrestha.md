@@ -47,6 +47,9 @@ I am true Patriotic and you can found patriotism in every mole of my blood.
 I am one of the most prominent member of "**The Poshan & Co.**".
 
 
+Nichal's Blog [Nischal Lal Shrestha](https://www.nischal.info.np)
+
+
 If we are not connected on social media,
 							Add Nischal on facebook [CLICK HERE TO ADD](https://www.facebook.com/theonlyNischal)
 							Follow Nischal on twitter [FOLLOW ME AND GET FOLLOWED](https://www.twitter.com/theonlyNischal)
