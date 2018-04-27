@@ -100,7 +100,10 @@ ul.class .member-phone {
     margin-top: 4rem;
     font-size: 85%;
     text-align: center;
-    background-color: #f7f7f7
+    background-color: #f7f7f7;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 .bd-footer a {
     font-weight: 400;
