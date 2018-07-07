@@ -30,6 +30,9 @@ collections:
   posts:
     permalink: /posts/:title/
     output: true
+  downloads:
+    permalink: /downloads/:title/
+    output: true
 plugins:
   - jekyll-feed
 exclude:

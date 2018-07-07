@@ -3,19 +3,19 @@ firstname: Nischal Lal
 lastname: Shrestha 
 photo: nischal_shrestha.jpg 
 place: Bidur-4, Battar, Nuwakot 
-email: Nischal@pythonair.me 
+email: hi@nischal.info.np 
 phonenumber: 9818681689 
-website: https://aakrist.me
-facebook: https://www.facebook.com/NischalLalShrestha
-twitter: https://www.twitter.com/NischalLal
+website: https://nischal.info.np
+facebook: https://www.facebook.com/theonlyNischal
+twitter: https://www.twitter.com/theonlyNischal
 linkedin: 
 instagram: 
-github: https://github.com/Aakrist36
+github: https://github.com/theonlyNischal
 memberid:
 layout: profile
 ---
 
-# Love Everything Thant Make Me More Human.
+# I Love Everything That Makes Me More Human.
 
 
 I am a Pythonnista.
@@ -47,6 +47,9 @@ I am true Patriotic and you can found patriotism in every mole of my blood.
 I am one of the most prominent member of "**The Poshan & Co.**".
 
 
+Nichal's Blog [Nischal Lal Shrestha](https://www.nischal.info.np)
+
+
 If we are not connected on social media,
-							Add me on facebook [CLICK HERE TO ADD](https://www.facebook.com/NischalLalShrestha)
-							Follow me on twitter [FOLLOW ME AND GET FOLLOWED](https://www.twitter.com/NischalLal)
+							Add Nischal on facebook [CLICK HERE TO ADD](https://www.facebook.com/theonlyNischal)
+							Follow Nischal on twitter [FOLLOW ME AND GET FOLLOWED](https://www.twitter.com/theonlyNischal)

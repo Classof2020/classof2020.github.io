@@ -1,0 +1,16 @@
+---
+layout: base
+title: Downloads
+permalink: /downloads/
+---
+
+<h1>Downloads</h1><br>
+<section>
+  <div class="row">
+  {% for download in site.downloads %}
+    <div class="col-sm-4">
+                <h4 style="margin-bottom:0"><a href="{{ download.url }}">{{ download.title }}</a></h4>
+                <p>Updated On: {{ download.lastupdate | date:"%d %B %Y " }}</p>
+    </div>
+    {% endfor %}
+  </div>
