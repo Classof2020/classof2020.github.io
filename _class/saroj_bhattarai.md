@@ -3,13 +3,13 @@ firstname: Saroj
 lastname: Bhattarai 
 photo: saroj_bhattarai.jpg 
 place: Tulsipur, Dang 
-email: sarojbhattarai800@gmail.com 
+email: hello@sarojb.com.np	 
 phonenumber: 9868635719 
-website: 
+website: https://sarojb.com.np
 facebook: https://facebook.com/sar.bht 
 twitter: https://twitter.com/sarojofficial
 linkedin: 
-instagram: https://instagram.com/sarojbhattarai800 
+instagram: https://instagram.com/iamsarojbhattarai 
 github: https://github.com/sarojbhattarai 
 memberid:
 layout: profile
@@ -17,6 +17,9 @@ layout: profile
 
 When I see someone extremely smart, I stare and smile. Then I put down the mirror. 
 
-Passionately curious about "Theory of Relativity". One of the prominent member and well wisher of The Poshan & Co.  
+Great admirer of Lionel Messi.
 
-A device that turns coffee into code. Frontend develper! Youtuber!. Extremely talented. Candid! #LM10 Hi!
+Noob Programmer!
+
+
+Hello!
