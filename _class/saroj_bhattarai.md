@@ -19,12 +19,12 @@ When I see someone extremely smart, I stare and smile. Then I put down the mirro
 
 Of course I talk to myself. Sometimes I need expert advice. 
 
-I don’t believe in miracles. I rely on them.
+I don't believe in miracles. I rely on them.
 
 Great admirer of Lionel Messi (GOAT). 
 
 I love coding.
 
-I can print “hello world” in more than 7 programming languages. Awesome isn’t it.
+I can print 'hello world' in more than 7 programming languages. Awesome isn't it.
 
 Hello!
