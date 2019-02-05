@@ -127,3 +127,19 @@ ul.class .member-phone {
 .bd-footer-links li+li {
     margin-left: 1rem
 }
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
