@@ -2,7 +2,7 @@
 layout: download
 title: Applied Operating System
 subtitle: Class materials and downloads homepage of Applied Operating System. This page serves the files provided by lecturer ASV and those our contributors find to be helpful to everyone of us.
-lastupdate: 2017-07-30 12:00:00
+lastupdate: 2019-02-05 12:00:00
 tutor: Amit Shrivasta (ASV)
 comments: true
 ---
