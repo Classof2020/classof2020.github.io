@@ -15,4 +15,4 @@ memberid:
 layout: profile
 ---
 
-Hello Friends, I am Sagar Devkota.
+Hello, I am Sagar Devkota.
