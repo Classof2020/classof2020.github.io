@@ -13,7 +13,7 @@ Please check the available files below for the download. Click on filename to do
 |--------|-------------|------|
 | [Contemporary Engineering Economics.pdf](https://github.com/Classof2020/Engineering-Economics-Notes/raw/master/Contemporary%20Engineering%20Economics.pdf) | Contemporary Engineering Economics. | 8,785 KB |
 | [Engineering Economics_NCIT.pptx](https://github.com/Classof2020/Engineering-Economics-Notes/raw/master/Engineering%20Economics_NCIT.pptx) | Engineering Economics Slides from Lecture | 3,768 KB |
-| [Question Sets.docx](https://github.com/Classof2020/Engineering-Economics-Notes/raw/master/Question%20Sets.docx) | Question Sets | 250 KB |
+| [Question Sets.docx](https://github.com/Classof2020/Engineering-Economics-Notes/raw/master/Question%20Sets.docx) | Question Sets | 29 KB |
 
 
 ### Note
