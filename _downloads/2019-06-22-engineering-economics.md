@@ -1,7 +1,7 @@
 ---
 layout: download
 title: Engineering Economics
-subtitle: Class materials and downloads homepage of Web Technology. This page serves the files provided by lecturer SMP and those our contributors find to be helpful to everyone of us.
+subtitle: Class materials and downloads homepage of Engineering Economics. This page serves the files provided by lecturer SMP and those our contributors find to be helpful to everyone of us.
 lastupdate: 2019-06-22 12:00:00
 tutor: SMP
 comments: true
