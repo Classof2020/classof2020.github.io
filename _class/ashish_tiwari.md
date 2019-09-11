@@ -21,7 +21,7 @@ Whether or not I love coffee, I'm most certain that means nothing to you. Antarc
 
 I was born at an early age, spent some time growing up (presumably) and went to learn stuff at school. I love to explore new things (not a single so far though). I enjoy good markup, strive for good styling and am passionate about the beautiful code.
 
-By the way, I use social networking sites like Google Plus and Twitter. If you want to know more about me, head over to my [notes](http://notes.aashishtiwari.com.np) or [drop me a line](mailto:hi@aashishtiwari.com.np) (I like annoying people, yeah!). It would be mine pleasure to hear from you. ;)
+By the way, I use social networking sites like Twitter and Facebook. If you want to know more about me, head over to my [notes](http://notes.aashishtiwari.com.np) or [drop me a line](mailto:hi@aashishtiwari.com.np) (I like annoying people, yeah!). It would be mine pleasure to hear from you. ;)
 
 Moreover,
 
