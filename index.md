@@ -1,6 +1,4 @@
 ---
 layout: base
 ---
-
-<h1 style="font-size:350%; font-weight:bold; letter-spacing:-8px;">Class of 2020</h1><br>
-<h2 style="font-size:300%; letter-spacing:-4px; margin-top:-30px;">This is under construction.</h2>
+<div style="background-image: url("/assets/images/class.jpg");height: 100%;background-position: center;background-repeat: no-repeat;background-size: cover;"></div>
