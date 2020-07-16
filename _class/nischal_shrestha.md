@@ -2,9 +2,9 @@
 firstname: Nischal Lal 
 lastname: Shrestha 
 photo: nischal_shrestha.jpg 
-place: Bidur-4, Battar, Nuwakot 
+place: Bidur-3, Battar, Nuwakot 
 email: hi@nischal.info.np 
-phonenumber: 9818681689 
+phonenumber: 9864491600 
 website: https://nischal.info.np
 facebook: https://www.facebook.com/dakkulanthu
 twitter: https://www.twitter.com/dakkulanthu
