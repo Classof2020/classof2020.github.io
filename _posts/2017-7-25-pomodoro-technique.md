@@ -24,7 +24,7 @@ At its core, the technique behind is quite simple. So simple that most people of
 
 The basic idea is that you plan out the work you’re going to do for a day.
 Then you set a timer for 25 minutes and work on the first task you’ve
-planned. You only work on a sinle task during one time and give complete attention on this single task.
+planned. You only work on a single task during one time and give complete attention on this single task.
 
 If you’re interrupted, there are various
 ways of handling the interruption, but generally you strive to not be inter-
@@ -45,3 +45,6 @@ of apps for tracking and recording pomodori.
 Why don't you give a try?
 
 [Learn More](https://cirillocompany.de/pages/pomodoro-technique)
+
+#### Tools I Use
+[https://gnomepomodoro.org/](https://gnomepomodoro.org/)
