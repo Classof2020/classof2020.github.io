@@ -9,16 +9,11 @@ website: https://nischal.info.np
 facebook: https://www.facebook.com/dakkulanthu
 twitter: https://www.twitter.com/dakkulanthu
 linkedin: 
-instagram: 
+instagram: https://www.instagram.com/dakkulanthu/
 github: https://github.com/theonlyNischal
 memberid:
 layout: profile
 ---
 
-# I Love Everything That Makes Me More Human.
-
-
- If I had a dollar for every girl that found me unattractive, girls would find me attractive. 
-
-Girls used to call me "**Ugly**", then they saw my bank account and started calling me "*Ugly And Poor*".
+# I Love Everything That Makes Me More Human..
 
