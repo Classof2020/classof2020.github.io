@@ -11,6 +11,8 @@ comments: true
 ---
 # Dare To Debug
 
+Taken from: Let Us C, page 638 -644
+
 C programmers are great inventors of our times. However, there are is no shortage of horror stories about programs that took twenty times to **DEBUG** as they did to **WRITE**. Many a time programs had to be rewritten all over again because the bugs present in them could not be located. Bugs are C programmer's birththright. But how do we chase them away. No sure-shot way for that. I thought if I make a list of more common programming mistakes, it might be a help. They are not arranged in any particular order. But as you realize, surely a great help!
 
 
@@ -94,9 +96,3 @@ Programming is not about being clever and obscure -- it's about how clearly your
 <blockquote> Any person can write the program which computer can understad, but real programmer write program which human can understand.
 
 </blockquote>
-
-# Note
-
-If you found similar contents in the book Let Us C, page 638 -644, It is a pure accident.
-
-Looking for C examples	[Visit Novice Programmers](https://www.aakrist.me)
