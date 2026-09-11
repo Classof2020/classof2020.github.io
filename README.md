@@ -50,6 +50,13 @@ jekyll serve
 ```
 Open `http://localhost:4000` in your browser
 
+## GitHub Pages
+
+This repository is a GitHub Pages **user site** (`classof2020.github.io`), so it should be published from the repository root and use:
+
+- `url: https://classof2020.github.io`
+- `baseurl: ""`
+
 
 ## Issues
 Feel free to make a pull request for fixes and improvements to current website. For questions or problems on this repo come talk to us via the `NCIT SE 2016` group chat on [Facebook](https://www.facebook.com/groups/1005002246272217/) or open up an [issue](https://github.com/Classof2020/classof2020.github.io/issues/new), we'll do our best to help you out.
